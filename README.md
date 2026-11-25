@@ -17,7 +17,7 @@ Engine tạo video kinetic typography đồng bộ nhịp (beat-synced) và chí
 - **Node.js** (khuyến nghị v20 trở lên)
 - **pnpm** (repo sử dụng `pnpm` và lockfile `pnpm-lock.yaml`)
 - **ffmpeg** và **ffprobe** có sẵn trong `PATH` (dùng để tách âm thanh, phân tích năng lượng onset, xuất contact sheet tham khảo và so sánh QA)
-- **ElevenLabs API key** (tuỳ chọn, chỉ cần khi chạy `pnpm run align:lyrics` chưa có cache): đặt `ELEVENLABS_API_KEY=...` trong file `.env.local` ở thư mục gốc (đã được ignore trong git)
+- **ElevenLabs API key** (tuỳ chọn, chỉ cần khi chạy `pnpm run align:lyrics` chưa có cache): sao chép `.env.example` thành `.env.local` rồi điền `ELEVENLABS_API_KEY` (hoặc chạy `pnpm dlx @elevenlabs/cli@latest onboard connect --env-path .env.local`); file `.env.local` đã được ignore trong git
 
 ## Bắt đầu nhanh
 

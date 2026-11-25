@@ -17,7 +17,7 @@ A deterministic, beat-synced kinetic typography motion-graphics engine built wit
 - **Node.js** (v20+ recommended)
 - **pnpm** (this repository uses `pnpm` exclusively with `pnpm-lock.yaml`)
 - **ffmpeg** and **ffprobe** available on `PATH` (used for audio extraction, onset energy calculation, reference frame sheets, and QA comparisons)
-- **ElevenLabs API key** (optional, only required when running `pnpm run align:lyrics` without cached alignments): place `ELEVENLABS_API_KEY=...` in a local `.env.local` file (git-ignored)
+- **ElevenLabs API key** (optional, only required when running `pnpm run align:lyrics` without cached alignments): copy `.env.example` to `.env.local` and set `ELEVENLABS_API_KEY` (or run `pnpm dlx @elevenlabs/cli@latest onboard connect --env-path .env.local`); `.env.local` is git-ignored
 
 ## Quick Start
 
