@@ -1,0 +1,11 @@
+node_modules/
+out/
+.remotion/
+# Local secrets written by `elevenlabs onboard`
+/.env.local
+# Reference videos (keep local only)
+references/**/*.mp4
+references/**/*.mov
+references/**/*.mkv
+references/**/*.webm
+

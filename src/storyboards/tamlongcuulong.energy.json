@@ -1,0 +1,4036 @@
+{
+  "fps": 30,
+  "durationInFrames": 806,
+  "frames": [
+    {
+      "bass": 0.0001,
+      "overall": 0.0001,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0003,
+      "overall": 0.0005,
+      "isBeat": true
+    },
+    {
+      "bass": 0.0071,
+      "overall": 0.0267,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0057,
+      "overall": 0.0255,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0095,
+      "overall": 0.034,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0113,
+      "overall": 0.0404,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0109,
+      "overall": 0.0454,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0619,
+      "overall": 0.1166,
+      "isBeat": true
+    },
+    {
+      "bass": 0.1329,
+      "overall": 0.1778,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1038,
+      "overall": 0.1589,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1232,
+      "overall": 0.185,
+      "isBeat": false
+    },
+    {
+      "bass": 0.146,
+      "overall": 0.191,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1608,
+      "overall": 0.262,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1598,
+      "overall": 0.255,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1743,
+      "overall": 0.186,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1918,
+      "overall": 0.2016,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1946,
+      "overall": 0.21,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5402,
+      "overall": 0.5726,
+      "isBeat": true
+    },
+    {
+      "bass": 0.4623,
+      "overall": 0.479,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3236,
+      "overall": 0.3861,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3039,
+      "overall": 0.3769,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3925,
+      "overall": 0.5481,
+      "isBeat": true
+    },
+    {
+      "bass": 0.6206,
+      "overall": 0.6178,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4282,
+      "overall": 0.4511,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4839,
+      "overall": 0.4813,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3511,
+      "overall": 0.3552,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6583,
+      "overall": 0.7221,
+      "isBeat": true
+    },
+    {
+      "bass": 0.5314,
+      "overall": 0.5822,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5723,
+      "overall": 0.601,
+      "isBeat": false
+    },
+    {
+      "bass": 0.424,
+      "overall": 0.4726,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3827,
+      "overall": 0.4544,
+      "isBeat": true
+    },
+    {
+      "bass": 0.3745,
+      "overall": 0.4291,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3636,
+      "overall": 0.4364,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3132,
+      "overall": 0.3402,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3183,
+      "overall": 0.3102,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6067,
+      "overall": 0.7724,
+      "isBeat": true
+    },
+    {
+      "bass": 0.775,
+      "overall": 0.8517,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5698,
+      "overall": 0.7143,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4796,
+      "overall": 0.5994,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3527,
+      "overall": 0.5226,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3587,
+      "overall": 0.5125,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3504,
+      "overall": 0.4787,
+      "isBeat": false
+    },
+    {
+      "bass": 0.334,
+      "overall": 0.4484,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3335,
+      "overall": 0.4009,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4786,
+      "overall": 0.6084,
+      "isBeat": true
+    },
+    {
+      "bass": 0.8975,
+      "overall": 0.9096,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6404,
+      "overall": 0.6513,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5603,
+      "overall": 0.5771,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4136,
+      "overall": 0.4686,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3519,
+      "overall": 0.4977,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3479,
+      "overall": 0.4087,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3464,
+      "overall": 0.3967,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3421,
+      "overall": 0.349,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3493,
+      "overall": 0.3372,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8711,
+      "overall": 0.9378,
+      "isBeat": true
+    },
+    {
+      "bass": 0.5916,
+      "overall": 0.6377,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4592,
+      "overall": 0.5808,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6035,
+      "overall": 0.572,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5322,
+      "overall": 0.5535,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5321,
+      "overall": 0.5598,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4892,
+      "overall": 0.5375,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4425,
+      "overall": 0.4892,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4859,
+      "overall": 0.5246,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4985,
+      "overall": 0.5888,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4667,
+      "overall": 0.5498,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4722,
+      "overall": 0.4918,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4594,
+      "overall": 0.4721,
+      "isBeat": false
+    },
+    {
+      "bass": 0.488,
+      "overall": 0.4844,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5094,
+      "overall": 0.4959,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4821,
+      "overall": 0.4504,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4746,
+      "overall": 0.4499,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4621,
+      "overall": 0.4374,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4678,
+      "overall": 0.5699,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1812,
+      "overall": 0.6018,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1776,
+      "overall": 0.6419,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2221,
+      "overall": 0.4269,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2582,
+      "overall": 0.3775,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2685,
+      "overall": 0.4001,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2642,
+      "overall": 0.4049,
+      "isBeat": false
+    },
+    {
+      "bass": 0.317,
+      "overall": 0.4444,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3313,
+      "overall": 0.4216,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2696,
+      "overall": 0.4231,
+      "isBeat": true
+    },
+    {
+      "bass": 0.8188,
+      "overall": 0.8783,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8243,
+      "overall": 0.7702,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4112,
+      "overall": 0.4705,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5922,
+      "overall": 0.5835,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5118,
+      "overall": 0.5639,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5,
+      "overall": 0.5708,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4632,
+      "overall": 0.4927,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5041,
+      "overall": 0.5077,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4984,
+      "overall": 0.494,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4881,
+      "overall": 0.5346,
+      "isBeat": true
+    },
+    {
+      "bass": 0.4641,
+      "overall": 0.506,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4452,
+      "overall": 0.5171,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4619,
+      "overall": 0.4998,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4784,
+      "overall": 0.5108,
+      "isBeat": false
+    },
+    {
+      "bass": 0.484,
+      "overall": 0.5896,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4767,
+      "overall": 0.5116,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4716,
+      "overall": 0.4443,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4504,
+      "overall": 0.4154,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4696,
+      "overall": 0.4898,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5035,
+      "overall": 0.5907,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4411,
+      "overall": 0.522,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4603,
+      "overall": 0.5396,
+      "isBeat": false
+    },
+    {
+      "bass": 0.442,
+      "overall": 0.4699,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4502,
+      "overall": 0.5195,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4357,
+      "overall": 0.4694,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4328,
+      "overall": 0.4544,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4141,
+      "overall": 0.4206,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3985,
+      "overall": 0.514,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4253,
+      "overall": 0.6669,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3917,
+      "overall": 0.657,
+      "isBeat": false
+    },
+    {
+      "bass": 0.392,
+      "overall": 0.5212,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4295,
+      "overall": 0.4764,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4359,
+      "overall": 0.4822,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4442,
+      "overall": 0.48,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4532,
+      "overall": 0.4895,
+      "isBeat": true
+    },
+    {
+      "bass": 0.4188,
+      "overall": 0.4236,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4184,
+      "overall": 0.3908,
+      "isBeat": false
+    },
+    {
+      "bass": 0.596,
+      "overall": 0.685,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4786,
+      "overall": 0.5726,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4968,
+      "overall": 0.5437,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5337,
+      "overall": 0.6095,
+      "isBeat": false
+    },
+    {
+      "bass": 0.504,
+      "overall": 0.6175,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4998,
+      "overall": 0.5708,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4906,
+      "overall": 0.5431,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4967,
+      "overall": 0.5782,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5026,
+      "overall": 0.5549,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3927,
+      "overall": 0.4743,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1848,
+      "overall": 0.4,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1281,
+      "overall": 0.399,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2361,
+      "overall": 0.4919,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2089,
+      "overall": 0.3843,
+      "isBeat": false
+    },
+    {
+      "bass": 0.232,
+      "overall": 0.3839,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2236,
+      "overall": 0.3909,
+      "isBeat": false
+    },
+    {
+      "bass": 0.244,
+      "overall": 0.4018,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2176,
+      "overall": 0.3455,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2177,
+      "overall": 0.3501,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2227,
+      "overall": 0.3672,
+      "isBeat": false
+    },
+    {
+      "bass": 0.221,
+      "overall": 0.3645,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2424,
+      "overall": 0.3843,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2592,
+      "overall": 0.407,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2569,
+      "overall": 0.4158,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2621,
+      "overall": 0.4259,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2699,
+      "overall": 0.429,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2573,
+      "overall": 0.4171,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2236,
+      "overall": 0.3405,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1797,
+      "overall": 0.2969,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1708,
+      "overall": 0.4476,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1699,
+      "overall": 0.4759,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1521,
+      "overall": 0.3993,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1284,
+      "overall": 0.3067,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1199,
+      "overall": 0.2928,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1431,
+      "overall": 0.3578,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1712,
+      "overall": 0.387,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2115,
+      "overall": 0.4151,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0886,
+      "overall": 0.1396,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1245,
+      "overall": 0.2658,
+      "isBeat": true
+    },
+    {
+      "bass": 0.1956,
+      "overall": 0.3981,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1922,
+      "overall": 0.4211,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1954,
+      "overall": 0.3996,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1783,
+      "overall": 0.3567,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1336,
+      "overall": 0.3036,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1268,
+      "overall": 0.2775,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0728,
+      "overall": 0.2232,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0479,
+      "overall": 0.1366,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0823,
+      "overall": 0.4573,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1199,
+      "overall": 0.5718,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1271,
+      "overall": 0.4679,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1635,
+      "overall": 0.3595,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1868,
+      "overall": 0.3794,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1668,
+      "overall": 0.3558,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1599,
+      "overall": 0.3437,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1641,
+      "overall": 0.3415,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1466,
+      "overall": 0.3051,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1931,
+      "overall": 0.3589,
+      "isBeat": true
+    },
+    {
+      "bass": 0.2414,
+      "overall": 0.5185,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1565,
+      "overall": 0.431,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1288,
+      "overall": 0.3701,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1278,
+      "overall": 0.3233,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1381,
+      "overall": 0.2576,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1641,
+      "overall": 0.3261,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1715,
+      "overall": 0.343,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1698,
+      "overall": 0.3343,
+      "isBeat": true
+    },
+    {
+      "bass": 0.1853,
+      "overall": 0.2516,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1944,
+      "overall": 0.3607,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1983,
+      "overall": 0.3768,
+      "isBeat": false
+    },
+    {
+      "bass": 0.193,
+      "overall": 0.3378,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2197,
+      "overall": 0.3662,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2247,
+      "overall": 0.3696,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2335,
+      "overall": 0.3678,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2189,
+      "overall": 0.3253,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0725,
+      "overall": 0.1133,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0317,
+      "overall": 0.1039,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2058,
+      "overall": 0.4621,
+      "isBeat": true
+    },
+    {
+      "bass": 0.2396,
+      "overall": 0.4448,
+      "isBeat": false
+    },
+    {
+      "bass": 0.283,
+      "overall": 0.4388,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2768,
+      "overall": 0.4047,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2509,
+      "overall": 0.3843,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2595,
+      "overall": 0.4075,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2379,
+      "overall": 0.3649,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1948,
+      "overall": 0.3215,
+      "isBeat": false
+    },
+    {
+      "bass": 0.665,
+      "overall": 0.8091,
+      "isBeat": true
+    },
+    {
+      "bass": 0.8186,
+      "overall": 0.7778,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5283,
+      "overall": 0.6338,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6207,
+      "overall": 0.5944,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4739,
+      "overall": 0.5136,
+      "isBeat": true
+    },
+    {
+      "bass": 0.4707,
+      "overall": 0.497,
+      "isBeat": false
+    },
+    {
+      "bass": 0.479,
+      "overall": 0.4635,
+      "isBeat": false
+    },
+    {
+      "bass": 0.443,
+      "overall": 0.4566,
+      "isBeat": false
+    },
+    {
+      "bass": 0.456,
+      "overall": 0.482,
+      "isBeat": false
+    },
+    {
+      "bass": 0.504,
+      "overall": 0.4855,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4384,
+      "overall": 0.5934,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4358,
+      "overall": 0.5772,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4764,
+      "overall": 0.5215,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4254,
+      "overall": 0.4643,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4163,
+      "overall": 0.4816,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4568,
+      "overall": 0.4976,
+      "isBeat": false
+    },
+    {
+      "bass": 0.47,
+      "overall": 0.5018,
+      "isBeat": false
+    },
+    {
+      "bass": 0.408,
+      "overall": 0.4213,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4232,
+      "overall": 0.3939,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2834,
+      "overall": 0.5923,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1683,
+      "overall": 0.6589,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1249,
+      "overall": 0.5374,
+      "isBeat": false
+    },
+    {
+      "bass": 0.13,
+      "overall": 0.3744,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1313,
+      "overall": 0.3768,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1103,
+      "overall": 0.3454,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1087,
+      "overall": 0.3465,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1257,
+      "overall": 0.3167,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1176,
+      "overall": 0.3015,
+      "isBeat": false
+    },
+    {
+      "bass": 0.7875,
+      "overall": 0.892,
+      "isBeat": true
+    },
+    {
+      "bass": 0.6195,
+      "overall": 0.6188,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5817,
+      "overall": 0.6641,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5094,
+      "overall": 0.596,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4714,
+      "overall": 0.5985,
+      "isBeat": true
+    },
+    {
+      "bass": 0.4579,
+      "overall": 0.6361,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4116,
+      "overall": 0.6126,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4388,
+      "overall": 0.523,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4429,
+      "overall": 0.5724,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3975,
+      "overall": 0.5716,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4263,
+      "overall": 0.6015,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4081,
+      "overall": 0.5783,
+      "isBeat": false
+    },
+    {
+      "bass": 0.429,
+      "overall": 0.5683,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4258,
+      "overall": 0.4713,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4054,
+      "overall": 0.4879,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4191,
+      "overall": 0.5256,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4337,
+      "overall": 0.4551,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4151,
+      "overall": 0.4364,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4118,
+      "overall": 0.4489,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4048,
+      "overall": 0.5723,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3914,
+      "overall": 0.5741,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3932,
+      "overall": 0.5129,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3722,
+      "overall": 0.5087,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4197,
+      "overall": 0.5163,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4305,
+      "overall": 0.4282,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3837,
+      "overall": 0.4151,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4035,
+      "overall": 0.4184,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3844,
+      "overall": 0.3441,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4113,
+      "overall": 0.6523,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4364,
+      "overall": 0.7131,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4514,
+      "overall": 0.6323,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4306,
+      "overall": 0.5553,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4464,
+      "overall": 0.5748,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4194,
+      "overall": 0.5752,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4275,
+      "overall": 0.5186,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4258,
+      "overall": 0.4935,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4508,
+      "overall": 0.4169,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4258,
+      "overall": 0.559,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5062,
+      "overall": 0.6405,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4154,
+      "overall": 0.6014,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4799,
+      "overall": 0.5073,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4298,
+      "overall": 0.4951,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4361,
+      "overall": 0.5692,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4633,
+      "overall": 0.486,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4469,
+      "overall": 0.4786,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4427,
+      "overall": 0.4946,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5321,
+      "overall": 0.6822,
+      "isBeat": false
+    },
+    {
+      "bass": 0.9664,
+      "overall": 0.954,
+      "isBeat": false
+    },
+    {
+      "bass": 0.655,
+      "overall": 0.6662,
+      "isBeat": false
+    },
+    {
+      "bass": 0.566,
+      "overall": 0.6067,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4665,
+      "overall": 0.5094,
+      "isBeat": false
+    },
+    {
+      "bass": 0.394,
+      "overall": 0.4292,
+      "isBeat": true
+    },
+    {
+      "bass": 0.3531,
+      "overall": 0.3808,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3571,
+      "overall": 0.3969,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3861,
+      "overall": 0.3887,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4043,
+      "overall": 0.4265,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4294,
+      "overall": 0.5385,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3919,
+      "overall": 0.514,
+      "isBeat": false
+    },
+    {
+      "bass": 0.435,
+      "overall": 0.5057,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3773,
+      "overall": 0.4547,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3975,
+      "overall": 0.4726,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4207,
+      "overall": 0.4776,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3975,
+      "overall": 0.4515,
+      "isBeat": false
+    },
+    {
+      "bass": 0.371,
+      "overall": 0.3694,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3679,
+      "overall": 0.3512,
+      "isBeat": false
+    },
+    {
+      "bass": 0.29,
+      "overall": 0.5495,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1245,
+      "overall": 0.6713,
+      "isBeat": false
+    },
+    {
+      "bass": 0.09,
+      "overall": 0.5581,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0979,
+      "overall": 0.3559,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1055,
+      "overall": 0.2626,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0868,
+      "overall": 0.2636,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1075,
+      "overall": 0.2842,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1055,
+      "overall": 0.2503,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1002,
+      "overall": 0.256,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1846,
+      "overall": 0.3889,
+      "isBeat": true
+    },
+    {
+      "bass": 0.5304,
+      "overall": 0.604,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3744,
+      "overall": 0.4869,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3688,
+      "overall": 0.5235,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3582,
+      "overall": 0.5117,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4005,
+      "overall": 0.5619,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3693,
+      "overall": 0.5453,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3551,
+      "overall": 0.4546,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3566,
+      "overall": 0.3939,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4119,
+      "overall": 0.5147,
+      "isBeat": true
+    },
+    {
+      "bass": 0.9955,
+      "overall": 1,
+      "isBeat": false
+    },
+    {
+      "bass": 0.7983,
+      "overall": 0.7876,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4846,
+      "overall": 0.5641,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4139,
+      "overall": 0.4852,
+      "isBeat": false
+    },
+    {
+      "bass": 0.606,
+      "overall": 0.7688,
+      "isBeat": true
+    },
+    {
+      "bass": 0.8746,
+      "overall": 0.8433,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5848,
+      "overall": 0.5669,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5229,
+      "overall": 0.4923,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4197,
+      "overall": 0.4376,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8397,
+      "overall": 0.9113,
+      "isBeat": true
+    },
+    {
+      "bass": 0.5343,
+      "overall": 0.6478,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6228,
+      "overall": 0.6756,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4183,
+      "overall": 0.5361,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3958,
+      "overall": 0.5273,
+      "isBeat": true
+    },
+    {
+      "bass": 0.3396,
+      "overall": 0.4781,
+      "isBeat": false
+    },
+    {
+      "bass": 0.347,
+      "overall": 0.4412,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3233,
+      "overall": 0.3841,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3224,
+      "overall": 0.3096,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6693,
+      "overall": 0.825,
+      "isBeat": true
+    },
+    {
+      "bass": 0.8038,
+      "overall": 0.8791,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6239,
+      "overall": 0.7464,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4718,
+      "overall": 0.6372,
+      "isBeat": false
+    },
+    {
+      "bass": 0.35,
+      "overall": 0.5388,
+      "isBeat": false
+    },
+    {
+      "bass": 0.339,
+      "overall": 0.5241,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2921,
+      "overall": 0.44,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3198,
+      "overall": 0.3347,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3518,
+      "overall": 0.3432,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4619,
+      "overall": 0.6566,
+      "isBeat": true
+    },
+    {
+      "bass": 0.9518,
+      "overall": 0.9127,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6058,
+      "overall": 0.6332,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5543,
+      "overall": 0.6232,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3943,
+      "overall": 0.4868,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3727,
+      "overall": 0.4723,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3314,
+      "overall": 0.3759,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3358,
+      "overall": 0.3497,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3704,
+      "overall": 0.3595,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3799,
+      "overall": 0.381,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8628,
+      "overall": 0.9196,
+      "isBeat": true
+    },
+    {
+      "bass": 0.6124,
+      "overall": 0.6403,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4891,
+      "overall": 0.5094,
+      "isBeat": false
+    },
+    {
+      "bass": 0.609,
+      "overall": 0.6249,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5749,
+      "overall": 0.6114,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5147,
+      "overall": 0.5728,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4505,
+      "overall": 0.5079,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4824,
+      "overall": 0.5278,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4873,
+      "overall": 0.504,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4908,
+      "overall": 0.5336,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4791,
+      "overall": 0.4951,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4547,
+      "overall": 0.4727,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4696,
+      "overall": 0.4805,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4805,
+      "overall": 0.4831,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4825,
+      "overall": 0.4755,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4865,
+      "overall": 0.4667,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4732,
+      "overall": 0.4569,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4975,
+      "overall": 0.4773,
+      "isBeat": false
+    },
+    {
+      "bass": 0.449,
+      "overall": 0.5558,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1635,
+      "overall": 0.624,
+      "isBeat": false
+    },
+    {
+      "bass": 0.085,
+      "overall": 0.5527,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0866,
+      "overall": 0.3712,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0844,
+      "overall": 0.1883,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0511,
+      "overall": 0.1911,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0463,
+      "overall": 0.2168,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0678,
+      "overall": 0.2125,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0461,
+      "overall": 0.2115,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3795,
+      "overall": 0.4914,
+      "isBeat": true
+    },
+    {
+      "bass": 0.8111,
+      "overall": 0.8104,
+      "isBeat": false
+    },
+    {
+      "bass": 0.7538,
+      "overall": 0.7401,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4239,
+      "overall": 0.5689,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5236,
+      "overall": 0.5799,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4762,
+      "overall": 0.5626,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5444,
+      "overall": 0.6307,
+      "isBeat": false
+    },
+    {
+      "bass": 0.47,
+      "overall": 0.5198,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5064,
+      "overall": 0.5466,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4671,
+      "overall": 0.5219,
+      "isBeat": false
+    },
+    {
+      "bass": 0.455,
+      "overall": 0.579,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4461,
+      "overall": 0.5916,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4485,
+      "overall": 0.5629,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4804,
+      "overall": 0.5706,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4522,
+      "overall": 0.5452,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4276,
+      "overall": 0.5673,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4399,
+      "overall": 0.5366,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4489,
+      "overall": 0.481,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4647,
+      "overall": 0.5127,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4586,
+      "overall": 0.5724,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4513,
+      "overall": 0.5772,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4629,
+      "overall": 0.5619,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4071,
+      "overall": 0.497,
+      "isBeat": false
+    },
+    {
+      "bass": 0.39,
+      "overall": 0.478,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4126,
+      "overall": 0.5199,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3939,
+      "overall": 0.4609,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4004,
+      "overall": 0.4742,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4111,
+      "overall": 0.4318,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4219,
+      "overall": 0.5404,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4396,
+      "overall": 0.6992,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3551,
+      "overall": 0.6285,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4117,
+      "overall": 0.6264,
+      "isBeat": false
+    },
+    {
+      "bass": 0.394,
+      "overall": 0.5607,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4465,
+      "overall": 0.5648,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4378,
+      "overall": 0.4805,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4439,
+      "overall": 0.4618,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4076,
+      "overall": 0.483,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4231,
+      "overall": 0.5243,
+      "isBeat": false
+    },
+    {
+      "bass": 0.565,
+      "overall": 0.6684,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4498,
+      "overall": 0.5665,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4758,
+      "overall": 0.5342,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5009,
+      "overall": 0.5841,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4894,
+      "overall": 0.6019,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4735,
+      "overall": 0.5188,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4926,
+      "overall": 0.5127,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4985,
+      "overall": 0.4589,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4901,
+      "overall": 0.4461,
+      "isBeat": false
+    },
+    {
+      "bass": 0.7427,
+      "overall": 0.8324,
+      "isBeat": true
+    },
+    {
+      "bass": 0.5893,
+      "overall": 0.5996,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6203,
+      "overall": 0.6713,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5204,
+      "overall": 0.5687,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4311,
+      "overall": 0.5558,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4001,
+      "overall": 0.4797,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3733,
+      "overall": 0.4562,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4207,
+      "overall": 0.5232,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4011,
+      "overall": 0.5102,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4293,
+      "overall": 0.5292,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3561,
+      "overall": 0.4887,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4036,
+      "overall": 0.5041,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4216,
+      "overall": 0.5117,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4245,
+      "overall": 0.5346,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3808,
+      "overall": 0.4646,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4467,
+      "overall": 0.4823,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4018,
+      "overall": 0.4713,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4036,
+      "overall": 0.4358,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3854,
+      "overall": 0.4902,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2378,
+      "overall": 0.6085,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1979,
+      "overall": 0.6406,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2012,
+      "overall": 0.4745,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2222,
+      "overall": 0.3741,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2324,
+      "overall": 0.3643,
+      "isBeat": false
+    },
+    {
+      "bass": 0.229,
+      "overall": 0.3353,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2351,
+      "overall": 0.3664,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2233,
+      "overall": 0.3756,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2234,
+      "overall": 0.3497,
+      "isBeat": false
+    },
+    {
+      "bass": 0.48,
+      "overall": 0.6478,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4077,
+      "overall": 0.5741,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3907,
+      "overall": 0.5778,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4015,
+      "overall": 0.561,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4051,
+      "overall": 0.5642,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3951,
+      "overall": 0.5498,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3903,
+      "overall": 0.4747,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3924,
+      "overall": 0.4032,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3811,
+      "overall": 0.3867,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8872,
+      "overall": 0.9072,
+      "isBeat": true
+    },
+    {
+      "bass": 0.9262,
+      "overall": 0.8475,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5632,
+      "overall": 0.5631,
+      "isBeat": false
+    },
+    {
+      "bass": 0.481,
+      "overall": 0.4442,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3854,
+      "overall": 0.414,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8158,
+      "overall": 0.8971,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8072,
+      "overall": 0.7873,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5762,
+      "overall": 0.5173,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4781,
+      "overall": 0.4878,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5552,
+      "overall": 0.6877,
+      "isBeat": true
+    },
+    {
+      "bass": 0.7426,
+      "overall": 0.776,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6724,
+      "overall": 0.7071,
+      "isBeat": false
+    },
+    {
+      "bass": 0.418,
+      "overall": 0.5017,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4073,
+      "overall": 0.4847,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3449,
+      "overall": 0.4757,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3686,
+      "overall": 0.4795,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2901,
+      "overall": 0.4136,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3378,
+      "overall": 0.3888,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3119,
+      "overall": 0.4304,
+      "isBeat": true
+    },
+    {
+      "bass": 0.8608,
+      "overall": 0.9552,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6604,
+      "overall": 0.7778,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5603,
+      "overall": 0.6268,
+      "isBeat": false
+    },
+    {
+      "bass": 0.446,
+      "overall": 0.581,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3778,
+      "overall": 0.519,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3572,
+      "overall": 0.4864,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3559,
+      "overall": 0.4007,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3517,
+      "overall": 0.3482,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3393,
+      "overall": 0.3589,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8086,
+      "overall": 0.8924,
+      "isBeat": true
+    },
+    {
+      "bass": 0.642,
+      "overall": 0.6954,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6468,
+      "overall": 0.6399,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4736,
+      "overall": 0.5029,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4159,
+      "overall": 0.5058,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4516,
+      "overall": 0.485,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3586,
+      "overall": 0.4005,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4072,
+      "overall": 0.4165,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3851,
+      "overall": 0.3978,
+      "isBeat": false
+    },
+    {
+      "bass": 0.7165,
+      "overall": 0.8085,
+      "isBeat": true
+    },
+    {
+      "bass": 0.7097,
+      "overall": 0.7142,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5415,
+      "overall": 0.5769,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5986,
+      "overall": 0.5978,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5335,
+      "overall": 0.5501,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5165,
+      "overall": 0.5386,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4789,
+      "overall": 0.5002,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4669,
+      "overall": 0.4949,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4556,
+      "overall": 0.436,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4561,
+      "overall": 0.459,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4553,
+      "overall": 0.6137,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4583,
+      "overall": 0.5433,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4592,
+      "overall": 0.5454,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4507,
+      "overall": 0.5304,
+      "isBeat": false
+    },
+    {
+      "bass": 0.412,
+      "overall": 0.5149,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4007,
+      "overall": 0.5502,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4427,
+      "overall": 0.5659,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4339,
+      "overall": 0.4603,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4488,
+      "overall": 0.4954,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3163,
+      "overall": 0.6331,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1904,
+      "overall": 0.6556,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1544,
+      "overall": 0.5682,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1367,
+      "overall": 0.4691,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1197,
+      "overall": 0.4144,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1156,
+      "overall": 0.4456,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1222,
+      "overall": 0.3381,
+      "isBeat": false
+    },
+    {
+      "bass": 0.143,
+      "overall": 0.3481,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1189,
+      "overall": 0.3039,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8548,
+      "overall": 0.9033,
+      "isBeat": true
+    },
+    {
+      "bass": 0.5239,
+      "overall": 0.5986,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5595,
+      "overall": 0.6324,
+      "isBeat": false
+    },
+    {
+      "bass": 0.521,
+      "overall": 0.6071,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4394,
+      "overall": 0.5667,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4267,
+      "overall": 0.5898,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4669,
+      "overall": 0.5497,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4486,
+      "overall": 0.4374,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4304,
+      "overall": 0.4413,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4489,
+      "overall": 0.492,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4244,
+      "overall": 0.607,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3951,
+      "overall": 0.5895,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3998,
+      "overall": 0.5227,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3958,
+      "overall": 0.4794,
+      "isBeat": false
+    },
+    {
+      "bass": 0.419,
+      "overall": 0.5179,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4173,
+      "overall": 0.5005,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4219,
+      "overall": 0.4699,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4282,
+      "overall": 0.4466,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4005,
+      "overall": 0.3942,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4071,
+      "overall": 0.5054,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4216,
+      "overall": 0.5284,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3867,
+      "overall": 0.4862,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3764,
+      "overall": 0.4656,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4045,
+      "overall": 0.449,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3897,
+      "overall": 0.4261,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4174,
+      "overall": 0.4682,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4439,
+      "overall": 0.4756,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3692,
+      "overall": 0.4074,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4331,
+      "overall": 0.7789,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4176,
+      "overall": 0.7257,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3947,
+      "overall": 0.6021,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4378,
+      "overall": 0.5188,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4484,
+      "overall": 0.5379,
+      "isBeat": false
+    },
+    {
+      "bass": 0.456,
+      "overall": 0.4993,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4793,
+      "overall": 0.5153,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4741,
+      "overall": 0.4679,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4744,
+      "overall": 0.4807,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4432,
+      "overall": 0.5656,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5494,
+      "overall": 0.612,
+      "isBeat": false
+    },
+    {
+      "bass": 0.468,
+      "overall": 0.5566,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4346,
+      "overall": 0.52,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4603,
+      "overall": 0.5296,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4737,
+      "overall": 0.538,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4628,
+      "overall": 0.5028,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4852,
+      "overall": 0.5297,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4568,
+      "overall": 0.4259,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6041,
+      "overall": 0.8143,
+      "isBeat": true
+    },
+    {
+      "bass": 0.9442,
+      "overall": 0.8748,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6301,
+      "overall": 0.6176,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5892,
+      "overall": 0.6146,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4101,
+      "overall": 0.4829,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4456,
+      "overall": 0.482,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3908,
+      "overall": 0.4391,
+      "isBeat": true
+    },
+    {
+      "bass": 0.4156,
+      "overall": 0.476,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4056,
+      "overall": 0.4976,
+      "isBeat": false
+    },
+    {
+      "bass": 0.439,
+      "overall": 0.5104,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3893,
+      "overall": 0.4946,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3888,
+      "overall": 0.4652,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3895,
+      "overall": 0.424,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3714,
+      "overall": 0.3899,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3738,
+      "overall": 0.3898,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3985,
+      "overall": 0.4069,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3672,
+      "overall": 0.3644,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3766,
+      "overall": 0.3611,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3735,
+      "overall": 0.369,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2346,
+      "overall": 0.4883,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1178,
+      "overall": 0.6046,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0921,
+      "overall": 0.5705,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0983,
+      "overall": 0.3887,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1,
+      "overall": 0.3921,
+      "isBeat": false
+    },
+    {
+      "bass": 0.09,
+      "overall": 0.3189,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0911,
+      "overall": 0.2784,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0773,
+      "overall": 0.2174,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0679,
+      "overall": 0.2053,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2088,
+      "overall": 0.3894,
+      "isBeat": true
+    },
+    {
+      "bass": 0.5559,
+      "overall": 0.6428,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3838,
+      "overall": 0.5264,
+      "isBeat": false
+    },
+    {
+      "bass": 0.385,
+      "overall": 0.4906,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3883,
+      "overall": 0.5088,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3531,
+      "overall": 0.5538,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3595,
+      "overall": 0.5136,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3412,
+      "overall": 0.4491,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3553,
+      "overall": 0.4454,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5133,
+      "overall": 0.6363,
+      "isBeat": true
+    },
+    {
+      "bass": 1,
+      "overall": 0.9634,
+      "isBeat": false
+    },
+    {
+      "bass": 0.7756,
+      "overall": 0.8112,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4914,
+      "overall": 0.6128,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3732,
+      "overall": 0.4418,
+      "isBeat": true
+    },
+    {
+      "bass": 0.5813,
+      "overall": 0.7908,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8567,
+      "overall": 0.8149,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5592,
+      "overall": 0.5318,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5086,
+      "overall": 0.5155,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3917,
+      "overall": 0.4007,
+      "isBeat": false
+    },
+    {
+      "bass": 0.7713,
+      "overall": 0.8568,
+      "isBeat": true
+    },
+    {
+      "bass": 0.5925,
+      "overall": 0.5718,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6331,
+      "overall": 0.6174,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4328,
+      "overall": 0.4915,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4067,
+      "overall": 0.4578,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3555,
+      "overall": 0.4121,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3421,
+      "overall": 0.3629,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3168,
+      "overall": 0.3163,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3251,
+      "overall": 0.3182,
+      "isBeat": false
+    },
+    {
+      "bass": 0.759,
+      "overall": 0.8964,
+      "isBeat": true
+    },
+    {
+      "bass": 0.7079,
+      "overall": 0.7804,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5159,
+      "overall": 0.6702,
+      "isBeat": false
+    },
+    {
+      "bass": 0.448,
+      "overall": 0.4705,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3883,
+      "overall": 0.4423,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3816,
+      "overall": 0.4027,
+      "isBeat": false
+    },
+    {
+      "bass": 0.337,
+      "overall": 0.362,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3514,
+      "overall": 0.3614,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3438,
+      "overall": 0.3315,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5957,
+      "overall": 0.7391,
+      "isBeat": true
+    },
+    {
+      "bass": 0.8621,
+      "overall": 0.8428,
+      "isBeat": false
+    },
+    {
+      "bass": 0.583,
+      "overall": 0.5943,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5743,
+      "overall": 0.5994,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4156,
+      "overall": 0.5188,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3751,
+      "overall": 0.4951,
+      "isBeat": false
+    },
+    {
+      "bass": 0.389,
+      "overall": 0.4705,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3871,
+      "overall": 0.4337,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3558,
+      "overall": 0.3561,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3827,
+      "overall": 0.4326,
+      "isBeat": false
+    },
+    {
+      "bass": 0.8676,
+      "overall": 0.9279,
+      "isBeat": true
+    },
+    {
+      "bass": 0.631,
+      "overall": 0.6485,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4826,
+      "overall": 0.5786,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5518,
+      "overall": 0.5819,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4709,
+      "overall": 0.524,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5049,
+      "overall": 0.5487,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4814,
+      "overall": 0.5047,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5007,
+      "overall": 0.5261,
+      "isBeat": false
+    },
+    {
+      "bass": 0.477,
+      "overall": 0.4673,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4663,
+      "overall": 0.5241,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4686,
+      "overall": 0.5556,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4623,
+      "overall": 0.5259,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4655,
+      "overall": 0.5052,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4849,
+      "overall": 0.5168,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4699,
+      "overall": 0.4811,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4672,
+      "overall": 0.4392,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4858,
+      "overall": 0.4519,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4892,
+      "overall": 0.4572,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3592,
+      "overall": 0.5079,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1162,
+      "overall": 0.6839,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0818,
+      "overall": 0.5437,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1085,
+      "overall": 0.4307,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1276,
+      "overall": 0.3573,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1232,
+      "overall": 0.3546,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1156,
+      "overall": 0.3084,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1287,
+      "overall": 0.3356,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1222,
+      "overall": 0.3366,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4179,
+      "overall": 0.5862,
+      "isBeat": true
+    },
+    {
+      "bass": 0.8423,
+      "overall": 0.8275,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4865,
+      "overall": 0.5479,
+      "isBeat": false
+    },
+    {
+      "bass": 0.617,
+      "overall": 0.6355,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4392,
+      "overall": 0.5319,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4595,
+      "overall": 0.5632,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4826,
+      "overall": 0.5953,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4961,
+      "overall": 0.5537,
+      "isBeat": false
+    },
+    {
+      "bass": 0.515,
+      "overall": 0.5634,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4897,
+      "overall": 0.5826,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4839,
+      "overall": 0.6529,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4561,
+      "overall": 0.5965,
+      "isBeat": false
+    },
+    {
+      "bass": 0.459,
+      "overall": 0.5458,
+      "isBeat": false
+    },
+    {
+      "bass": 0.435,
+      "overall": 0.5676,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4057,
+      "overall": 0.6386,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4275,
+      "overall": 0.6161,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4698,
+      "overall": 0.5458,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4459,
+      "overall": 0.5413,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4506,
+      "overall": 0.4519,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4461,
+      "overall": 0.4856,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4563,
+      "overall": 0.5537,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4388,
+      "overall": 0.5602,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4333,
+      "overall": 0.5714,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4243,
+      "overall": 0.5573,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4268,
+      "overall": 0.5554,
+      "isBeat": false
+    },
+    {
+      "bass": 0.406,
+      "overall": 0.5074,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4509,
+      "overall": 0.5249,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4531,
+      "overall": 0.5571,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4236,
+      "overall": 0.6404,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4495,
+      "overall": 0.7023,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3673,
+      "overall": 0.6617,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3801,
+      "overall": 0.5749,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4253,
+      "overall": 0.5729,
+      "isBeat": false
+    },
+    {
+      "bass": 0.406,
+      "overall": 0.5385,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4058,
+      "overall": 0.4612,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4312,
+      "overall": 0.4239,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4308,
+      "overall": 0.4064,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4445,
+      "overall": 0.4851,
+      "isBeat": false
+    },
+    {
+      "bass": 0.6064,
+      "overall": 0.7283,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4606,
+      "overall": 0.6475,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4537,
+      "overall": 0.6821,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4777,
+      "overall": 0.6162,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4704,
+      "overall": 0.5974,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4789,
+      "overall": 0.5651,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4669,
+      "overall": 0.5083,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4401,
+      "overall": 0.4494,
+      "isBeat": false
+    },
+    {
+      "bass": 0.487,
+      "overall": 0.4708,
+      "isBeat": false
+    },
+    {
+      "bass": 0.7004,
+      "overall": 0.7992,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5851,
+      "overall": 0.6447,
+      "isBeat": false
+    },
+    {
+      "bass": 0.5409,
+      "overall": 0.5672,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3969,
+      "overall": 0.4598,
+      "isBeat": false
+    },
+    {
+      "bass": 0.388,
+      "overall": 0.4794,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3597,
+      "overall": 0.4673,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3317,
+      "overall": 0.4303,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3185,
+      "overall": 0.4006,
+      "isBeat": false
+    },
+    {
+      "bass": 0.357,
+      "overall": 0.4428,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3095,
+      "overall": 0.4302,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3093,
+      "overall": 0.4477,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3317,
+      "overall": 0.4354,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3482,
+      "overall": 0.4293,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3125,
+      "overall": 0.3926,
+      "isBeat": false
+    },
+    {
+      "bass": 0.302,
+      "overall": 0.3762,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3249,
+      "overall": 0.3627,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3245,
+      "overall": 0.3584,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3044,
+      "overall": 0.3469,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2803,
+      "overall": 0.39,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1622,
+      "overall": 0.4384,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1266,
+      "overall": 0.4109,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1205,
+      "overall": 0.2735,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1265,
+      "overall": 0.2167,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1067,
+      "overall": 0.183,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1026,
+      "overall": 0.1745,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1207,
+      "overall": 0.2055,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1179,
+      "overall": 0.2436,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1242,
+      "overall": 0.2138,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3267,
+      "overall": 0.4038,
+      "isBeat": true
+    },
+    {
+      "bass": 0.2634,
+      "overall": 0.3471,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2631,
+      "overall": 0.3328,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2298,
+      "overall": 0.2799,
+      "isBeat": false
+    },
+    {
+      "bass": 0.234,
+      "overall": 0.3029,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2401,
+      "overall": 0.2989,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2371,
+      "overall": 0.2578,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2182,
+      "overall": 0.2273,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2275,
+      "overall": 0.226,
+      "isBeat": false
+    },
+    {
+      "bass": 0.481,
+      "overall": 0.497,
+      "isBeat": false
+    },
+    {
+      "bass": 0.4605,
+      "overall": 0.4129,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3139,
+      "overall": 0.2926,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2029,
+      "overall": 0.1966,
+      "isBeat": true
+    },
+    {
+      "bass": 0.2048,
+      "overall": 0.2416,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3854,
+      "overall": 0.4057,
+      "isBeat": false
+    },
+    {
+      "bass": 0.3889,
+      "overall": 0.3552,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2245,
+      "overall": 0.2011,
+      "isBeat": false
+    },
+    {
+      "bass": 0.242,
+      "overall": 0.2282,
+      "isBeat": true
+    },
+    {
+      "bass": 0.2237,
+      "overall": 0.3174,
+      "isBeat": false
+    },
+    {
+      "bass": 0.2868,
+      "overall": 0.2981,
+      "isBeat": false
+    },
+    {
+      "bass": 0.269,
+      "overall": 0.2832,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1653,
+      "overall": 0.1991,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1616,
+      "overall": 0.2018,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1148,
+      "overall": 0.1839,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1183,
+      "overall": 0.1784,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0987,
+      "overall": 0.1647,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0994,
+      "overall": 0.1612,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1481,
+      "overall": 0.1966,
+      "isBeat": true
+    },
+    {
+      "bass": 0.2365,
+      "overall": 0.2507,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1693,
+      "overall": 0.1989,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1227,
+      "overall": 0.1609,
+      "isBeat": false
+    },
+    {
+      "bass": 0.096,
+      "overall": 0.1195,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0844,
+      "overall": 0.1198,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0811,
+      "overall": 0.1165,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0758,
+      "overall": 0.0925,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0717,
+      "overall": 0.0867,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0679,
+      "overall": 0.0848,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1148,
+      "overall": 0.1388,
+      "isBeat": false
+    },
+    {
+      "bass": 0.1152,
+      "overall": 0.1081,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0885,
+      "overall": 0.091,
+      "isBeat": true
+    },
+    {
+      "bass": 0.0599,
+      "overall": 0.0704,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0583,
+      "overall": 0.0668,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0452,
+      "overall": 0.0551,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0398,
+      "overall": 0.0441,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0391,
+      "overall": 0.0399,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0361,
+      "overall": 0.0358,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0618,
+      "overall": 0.0688,
+      "isBeat": true
+    },
+    {
+      "bass": 0.0455,
+      "overall": 0.0419,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0355,
+      "overall": 0.036,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0257,
+      "overall": 0.0292,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0211,
+      "overall": 0.0216,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0168,
+      "overall": 0.0182,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0128,
+      "overall": 0.0155,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0107,
+      "overall": 0.0111,
+      "isBeat": false
+    },
+    {
+      "bass": 0.006,
+      "overall": 0.0066,
+      "isBeat": false
+    },
+    {
+      "bass": 0.0031,
+      "overall": 0.0034,
+      "isBeat": false
+    }
+  ]
+}

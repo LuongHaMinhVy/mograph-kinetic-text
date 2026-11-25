@@ -1,0 +1,529 @@
+{
+  "audio": "public/audio/hk1999-2.mp3",
+  "durationSec": 30.442,
+  "mode": "align",
+  "model": "verified-reference-transcript",
+  "fps": 24,
+  "cacheKey": "hk1999-2-verified-lyrics-from-user-and-video-captions",
+  "createdAt": "2026-11-23T02:00:00.000Z",
+  "reviewed": true,
+  "reviewedAt": "2026-11-23T02:00:00.000Z",
+  "note": "Scribe (yue) returned only [background music]. Lyrics are the user's full lyrics (traditional forms as shown in the video); times are the frame at which each glyph appears in the reference video.",
+  "words": [
+    {
+      "text": "華",
+      "startSec": 1.083,
+      "endSec": 1.355,
+      "startMs": 1083,
+      "endMs": 1355
+    },
+    {
+      "text": "燈",
+      "startSec": 1.375,
+      "endSec": 1.647,
+      "startMs": 1375,
+      "endMs": 1647
+    },
+    {
+      "text": "初",
+      "startSec": 1.667,
+      "endSec": 1.98,
+      "startMs": 1667,
+      "endMs": 1980
+    },
+    {
+      "text": "上",
+      "startSec": 2.0,
+      "endSec": 2.522,
+      "startMs": 2000,
+      "endMs": 2522,
+      "phraseEnd": true
+    },
+    {
+      "text": "燈",
+      "startSec": 2.542,
+      "endSec": 2.662,
+      "startMs": 2542,
+      "endMs": 2662
+    },
+    {
+      "text": "光",
+      "startSec": 2.583,
+      "endSec": 2.703,
+      "startMs": 2583,
+      "endMs": 2703
+    },
+    {
+      "text": "只",
+      "startSec": 2.625,
+      "endSec": 2.745,
+      "startMs": 2625,
+      "endMs": 2745
+    },
+    {
+      "text": "為",
+      "startSec": 2.708,
+      "endSec": 2.855,
+      "startMs": 2708,
+      "endMs": 2855
+    },
+    {
+      "text": "你",
+      "startSec": 2.875,
+      "endSec": 3.188,
+      "startMs": 2875,
+      "endMs": 3188
+    },
+    {
+      "text": "我",
+      "startSec": 3.208,
+      "endSec": 3.397,
+      "startMs": 3208,
+      "endMs": 3397
+    },
+    {
+      "text": "隆",
+      "startSec": 3.417,
+      "endSec": 3.537,
+      "startMs": 3417,
+      "endMs": 3537
+    },
+    {
+      "text": "重",
+      "startSec": 3.542,
+      "endSec": 3.855,
+      "startMs": 3542,
+      "endMs": 3855
+    },
+    {
+      "text": "登",
+      "startSec": 3.875,
+      "endSec": 4.23,
+      "startMs": 3875,
+      "endMs": 4230
+    },
+    {
+      "text": "場",
+      "startSec": 4.25,
+      "endSec": 4.813,
+      "startMs": 4250,
+      "endMs": 4813,
+      "phraseEnd": true
+    },
+    {
+      "text": "把",
+      "startSec": 4.833,
+      "endSec": 5.105,
+      "startMs": 4833,
+      "endMs": 5105
+    },
+    {
+      "text": "嘴",
+      "startSec": 5.125,
+      "endSec": 5.397,
+      "startMs": 5125,
+      "endMs": 5397
+    },
+    {
+      "text": "堵",
+      "startSec": 5.417,
+      "endSec": 5.688,
+      "startMs": 5417,
+      "endMs": 5688
+    },
+    {
+      "text": "上",
+      "startSec": 5.708,
+      "endSec": 6.105,
+      "startMs": 5708,
+      "endMs": 6105,
+      "phraseEnd": true
+    },
+    {
+      "text": "情",
+      "startSec": 6.125,
+      "endSec": 6.245,
+      "startMs": 6125,
+      "endMs": 6245
+    },
+    {
+      "text": "話",
+      "startSec": 6.167,
+      "endSec": 6.313,
+      "startMs": 6167,
+      "endMs": 6313
+    },
+    {
+      "text": "留",
+      "startSec": 6.333,
+      "endSec": 6.605,
+      "startMs": 6333,
+      "endMs": 6605
+    },
+    {
+      "text": "在",
+      "startSec": 6.625,
+      "endSec": 6.745,
+      "startMs": 6625,
+      "endMs": 6745
+    },
+    {
+      "text": "嘴",
+      "startSec": 6.75,
+      "endSec": 6.897,
+      "startMs": 6750,
+      "endMs": 6897
+    },
+    {
+      "text": "邊",
+      "startSec": 6.917,
+      "endSec": 7.188,
+      "startMs": 6917,
+      "endMs": 7188
+    },
+    {
+      "text": "也",
+      "startSec": 7.208,
+      "endSec": 7.522,
+      "startMs": 7208,
+      "endMs": 7522
+    },
+    {
+      "text": "無",
+      "startSec": 7.542,
+      "endSec": 7.938,
+      "startMs": 7542,
+      "endMs": 7938
+    },
+    {
+      "text": "妨",
+      "startSec": 7.958,
+      "endSec": 8.897,
+      "startMs": 7958,
+      "endMs": 8897,
+      "phraseEnd": true
+    },
+    {
+      "text": "喜",
+      "startSec": 8.917,
+      "endSec": 9.355,
+      "startMs": 8917,
+      "endMs": 9355
+    },
+    {
+      "text": "歡",
+      "startSec": 9.375,
+      "endSec": 9.688,
+      "startMs": 9375,
+      "endMs": 9688
+    },
+    {
+      "text": "怎",
+      "startSec": 9.708,
+      "endSec": 9.938,
+      "startMs": 9708,
+      "endMs": 9938
+    },
+    {
+      "text": "麼",
+      "startSec": 9.958,
+      "endSec": 10.272,
+      "startMs": 9958,
+      "endMs": 10272
+    },
+    {
+      "text": "藏",
+      "startSec": 10.292,
+      "endSec": 11.022,
+      "startMs": 10292,
+      "endMs": 11022,
+      "phraseEnd": true
+    },
+    {
+      "text": "悸",
+      "startSec": 11.042,
+      "endSec": 11.313,
+      "startMs": 11042,
+      "endMs": 11313
+    },
+    {
+      "text": "動",
+      "startSec": 11.333,
+      "endSec": 11.605,
+      "startMs": 11333,
+      "endMs": 11605
+    },
+    {
+      "text": "怎",
+      "startSec": 11.625,
+      "endSec": 11.813,
+      "startMs": 11625,
+      "endMs": 11813
+    },
+    {
+      "text": "麼",
+      "startSec": 11.833,
+      "endSec": 12.23,
+      "startMs": 11833,
+      "endMs": 12230
+    },
+    {
+      "text": "涼",
+      "startSec": 12.25,
+      "endSec": 12.73,
+      "startMs": 12250,
+      "endMs": 12730,
+      "phraseEnd": true
+    },
+    {
+      "text": "獨",
+      "startSec": 12.75,
+      "endSec": 12.98,
+      "startMs": 12750,
+      "endMs": 12980
+    },
+    {
+      "text": "留",
+      "startSec": 13.0,
+      "endSec": 13.272,
+      "startMs": 13000,
+      "endMs": 13272
+    },
+    {
+      "text": "紅",
+      "startSec": 13.292,
+      "endSec": 13.563,
+      "startMs": 13292,
+      "endMs": 13563
+    },
+    {
+      "text": "燭",
+      "startSec": 13.583,
+      "endSec": 13.938,
+      "startMs": 13583,
+      "endMs": 13938
+    },
+    {
+      "text": "照",
+      "startSec": 13.958,
+      "endSec": 14.188,
+      "startMs": 13958,
+      "endMs": 14188
+    },
+    {
+      "text": "亮",
+      "startSec": 14.208,
+      "endSec": 14.522,
+      "startMs": 14208,
+      "endMs": 14522
+    },
+    {
+      "text": "一",
+      "startSec": 14.542,
+      "endSec": 14.772,
+      "startMs": 14542,
+      "endMs": 14772
+    },
+    {
+      "text": "方",
+      "startSec": 14.792,
+      "endSec": 15.48,
+      "startMs": 14792,
+      "endMs": 15480,
+      "phraseEnd": true
+    },
+    {
+      "text": "就",
+      "startSec": 15.5,
+      "endSec": 15.688,
+      "startMs": 15500,
+      "endMs": 15688
+    },
+    {
+      "text": "把",
+      "startSec": 15.708,
+      "endSec": 16.022,
+      "startMs": 15708,
+      "endMs": 16022
+    },
+    {
+      "text": "月",
+      "startSec": 16.042,
+      "endSec": 16.313,
+      "startMs": 16042,
+      "endMs": 16313
+    },
+    {
+      "text": "光",
+      "startSec": 16.333,
+      "endSec": 16.605,
+      "startMs": 16333,
+      "endMs": 16605
+    },
+    {
+      "text": "打",
+      "startSec": 16.625,
+      "endSec": 17.522,
+      "startMs": 16625,
+      "endMs": 17522
+    },
+    {
+      "text": "開",
+      "startSec": 17.542,
+      "endSec": 19.313,
+      "startMs": 17542,
+      "endMs": 19313,
+      "phraseEnd": true
+    },
+    {
+      "text": "讓",
+      "startSec": 19.333,
+      "endSec": 19.938,
+      "startMs": 19333,
+      "endMs": 19938
+    },
+    {
+      "text": "夢",
+      "startSec": 19.958,
+      "endSec": 20.522,
+      "startMs": 19958,
+      "endMs": 20522
+    },
+    {
+      "text": "照",
+      "startSec": 20.542,
+      "endSec": 21.147,
+      "startMs": 20542,
+      "endMs": 21147
+    },
+    {
+      "text": "進",
+      "startSec": 21.167,
+      "endSec": 21.772,
+      "startMs": 21167,
+      "endMs": 21772
+    },
+    {
+      "text": "窗",
+      "startSec": 21.792,
+      "endSec": 22.355,
+      "startMs": 21792,
+      "endMs": 22355
+    },
+    {
+      "text": "台",
+      "startSec": 22.375,
+      "endSec": 22.98,
+      "startMs": 22375,
+      "endMs": 22980,
+      "phraseEnd": true
+    },
+    {
+      "text": "我",
+      "startSec": 23.0,
+      "endSec": 23.688,
+      "startMs": 23000,
+      "endMs": 23688
+    },
+    {
+      "text": "愛",
+      "startSec": 23.708,
+      "endSec": 24.438,
+      "startMs": 23708,
+      "endMs": 24438
+    },
+    {
+      "text": "的",
+      "startSec": 24.458,
+      "endSec": 25.147,
+      "startMs": 24458,
+      "endMs": 25147
+    },
+    {
+      "text": "女",
+      "startSec": 25.167,
+      "endSec": 25.897,
+      "startMs": 25167,
+      "endMs": 25897
+    },
+    {
+      "text": "孩",
+      "startSec": 25.917,
+      "endSec": 26.605,
+      "startMs": 25917,
+      "endMs": 26605,
+      "phraseEnd": true
+    },
+    {
+      "text": "站",
+      "startSec": 26.625,
+      "endSec": 26.772,
+      "startMs": 26625,
+      "endMs": 26772
+    },
+    {
+      "text": "在",
+      "startSec": 26.792,
+      "endSec": 26.938,
+      "startMs": 26792,
+      "endMs": 26938
+    },
+    {
+      "text": "只",
+      "startSec": 26.958,
+      "endSec": 27.105,
+      "startMs": 26958,
+      "endMs": 27105
+    },
+    {
+      "text": "屬",
+      "startSec": 27.125,
+      "endSec": 27.272,
+      "startMs": 27125,
+      "endMs": 27272
+    },
+    {
+      "text": "於",
+      "startSec": 27.292,
+      "endSec": 27.412,
+      "startMs": 27292,
+      "endMs": 27412
+    },
+    {
+      "text": "我",
+      "startSec": 27.417,
+      "endSec": 27.563,
+      "startMs": 27417,
+      "endMs": 27563
+    },
+    {
+      "text": "們",
+      "startSec": 27.583,
+      "endSec": 27.73,
+      "startMs": 27583,
+      "endMs": 27730
+    },
+    {
+      "text": "的",
+      "startSec": 27.75,
+      "endSec": 27.897,
+      "startMs": 27750,
+      "endMs": 27897
+    },
+    {
+      "text": "舞",
+      "startSec": 27.917,
+      "endSec": 28.063,
+      "startMs": 27917,
+      "endMs": 28063
+    },
+    {
+      "text": "台",
+      "startSec": 28.083,
+      "endSec": 28.563,
+      "startMs": 28083,
+      "endMs": 28563,
+      "phraseEnd": true
+    }
+  ]
+}

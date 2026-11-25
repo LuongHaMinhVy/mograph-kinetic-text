@@ -1,0 +1,901 @@
+{
+  "audio": "public/audio/roile.mp3",
+  "durationSec": 30.77,
+  "mode": "align",
+  "model": "roile-vn-mapped-from-mp4-and-json",
+  "fps": 30,
+  "cacheKey": "roile-vn-full-30s-v1",
+  "createdAt": "2026-11-25T03:08:55.805Z",
+  "reviewed": true,
+  "reviewedAt": "2026-11-25T03:08:55.809Z",
+  "words": [
+    {
+      "text": "Anh",
+      "startSec": 0.12,
+      "endSec": 0.359,
+      "startMs": 120,
+      "endMs": 359
+    },
+    {
+      "text": "thực",
+      "startSec": 0.374,
+      "endSec": 0.614,
+      "startMs": 374,
+      "endMs": 614
+    },
+    {
+      "text": "sự",
+      "startSec": 0.629,
+      "endSec": 0.868,
+      "startMs": 629,
+      "endMs": 868
+    },
+    {
+      "text": "yêu",
+      "startSec": 0.883,
+      "endSec": 1.122,
+      "startMs": 883,
+      "endMs": 1122
+    },
+    {
+      "text": "em",
+      "startSec": 1.137,
+      "endSec": 1.376,
+      "startMs": 1137,
+      "endMs": 1376
+    },
+    {
+      "text": "rất",
+      "startSec": 1.391,
+      "endSec": 1.631,
+      "startMs": 1391,
+      "endMs": 1631
+    },
+    {
+      "text": "nhiều",
+      "startSec": 1.646,
+      "endSec": 1.9,
+      "startMs": 1646,
+      "endMs": 1900,
+      "phraseEnd": true
+    },
+    {
+      "text": "Tại",
+      "startSec": 2.05,
+      "endSec": 2.274,
+      "startMs": 2050,
+      "endMs": 2274
+    },
+    {
+      "text": "sao",
+      "startSec": 2.289,
+      "endSec": 2.512,
+      "startMs": 2289,
+      "endMs": 2512
+    },
+    {
+      "text": "em",
+      "startSec": 2.527,
+      "endSec": 2.751,
+      "startMs": 2527,
+      "endMs": 2751
+    },
+    {
+      "text": "lại",
+      "startSec": 2.766,
+      "endSec": 2.989,
+      "startMs": 2766,
+      "endMs": 2989
+    },
+    {
+      "text": "khóc",
+      "startSec": 3.004,
+      "endSec": 3.228,
+      "startMs": 3004,
+      "endMs": 3228
+    },
+    {
+      "text": "cơ",
+      "startSec": 3.243,
+      "endSec": 3.466,
+      "startMs": 3243,
+      "endMs": 3466
+    },
+    {
+      "text": "chứ?",
+      "startSec": 3.481,
+      "endSec": 3.72,
+      "startMs": 3481,
+      "endMs": 3720,
+      "phraseEnd": true
+    },
+    {
+      "text": "Tại",
+      "startSec": 3.88,
+      "endSec": 4.108,
+      "startMs": 3880,
+      "endMs": 4108
+    },
+    {
+      "text": "sao",
+      "startSec": 4.123,
+      "endSec": 4.351,
+      "startMs": 4123,
+      "endMs": 4351
+    },
+    {
+      "text": "em",
+      "startSec": 4.366,
+      "endSec": 4.594,
+      "startMs": 4366,
+      "endMs": 4594
+    },
+    {
+      "text": "lại",
+      "startSec": 4.609,
+      "endSec": 4.836,
+      "startMs": 4609,
+      "endMs": 4836
+    },
+    {
+      "text": "khóc",
+      "startSec": 4.851,
+      "endSec": 5.079,
+      "startMs": 4851,
+      "endMs": 5079
+    },
+    {
+      "text": "cơ",
+      "startSec": 5.094,
+      "endSec": 5.322,
+      "startMs": 5094,
+      "endMs": 5322
+    },
+    {
+      "text": "chứ?",
+      "startSec": 5.337,
+      "endSec": 5.58,
+      "startMs": 5337,
+      "endMs": 5580,
+      "phraseEnd": true
+    },
+    {
+      "text": "Tại",
+      "startSec": 5.72,
+      "endSec": 5.948,
+      "startMs": 5720,
+      "endMs": 5948
+    },
+    {
+      "text": "sao",
+      "startSec": 5.963,
+      "endSec": 6.191,
+      "startMs": 5963,
+      "endMs": 6191
+    },
+    {
+      "text": "em",
+      "startSec": 6.206,
+      "endSec": 6.434,
+      "startMs": 6206,
+      "endMs": 6434
+    },
+    {
+      "text": "lại",
+      "startSec": 6.449,
+      "endSec": 6.676,
+      "startMs": 6449,
+      "endMs": 6676
+    },
+    {
+      "text": "khóc",
+      "startSec": 6.691,
+      "endSec": 6.919,
+      "startMs": 6691,
+      "endMs": 6919
+    },
+    {
+      "text": "cơ",
+      "startSec": 6.934,
+      "endSec": 7.162,
+      "startMs": 6934,
+      "endMs": 7162
+    },
+    {
+      "text": "chứ?",
+      "startSec": 7.177,
+      "endSec": 7.42,
+      "startMs": 7177,
+      "endMs": 7420,
+      "phraseEnd": true
+    },
+    {
+      "text": "Anh",
+      "startSec": 7.65,
+      "endSec": 7.839,
+      "startMs": 7650,
+      "endMs": 7839
+    },
+    {
+      "text": "thực",
+      "startSec": 7.854,
+      "endSec": 8.044,
+      "startMs": 7854,
+      "endMs": 8044
+    },
+    {
+      "text": "sự",
+      "startSec": 8.059,
+      "endSec": 8.248,
+      "startMs": 8059,
+      "endMs": 8248
+    },
+    {
+      "text": "yêu",
+      "startSec": 8.263,
+      "endSec": 8.452,
+      "startMs": 8263,
+      "endMs": 8452
+    },
+    {
+      "text": "em",
+      "startSec": 8.467,
+      "endSec": 8.656,
+      "startMs": 8467,
+      "endMs": 8656
+    },
+    {
+      "text": "rất",
+      "startSec": 8.671,
+      "endSec": 8.861,
+      "startMs": 8671,
+      "endMs": 8861
+    },
+    {
+      "text": "nhiều",
+      "startSec": 8.876,
+      "endSec": 9.08,
+      "startMs": 8876,
+      "endMs": 9080,
+      "phraseEnd": true
+    },
+    {
+      "text": "Hứa",
+      "startSec": 9.24,
+      "endSec": 9.397,
+      "startMs": 9240,
+      "endMs": 9397
+    },
+    {
+      "text": "với",
+      "startSec": 9.412,
+      "endSec": 9.569,
+      "startMs": 9412,
+      "endMs": 9569
+    },
+    {
+      "text": "anh",
+      "startSec": 9.584,
+      "endSec": 9.741,
+      "startMs": 9584,
+      "endMs": 9741
+    },
+    {
+      "text": "là",
+      "startSec": 9.756,
+      "endSec": 9.913,
+      "startMs": 9756,
+      "endMs": 9913
+    },
+    {
+      "text": "em",
+      "startSec": 9.928,
+      "endSec": 10.1,
+      "startMs": 9928,
+      "endMs": 10100,
+      "phraseEnd": true
+    },
+    {
+      "text": "không",
+      "startSec": 10.14,
+      "endSec": 10.32,
+      "startMs": 10140,
+      "endMs": 10320
+    },
+    {
+      "text": "khóc",
+      "startSec": 10.335,
+      "endSec": 10.515,
+      "startMs": 10335,
+      "endMs": 10515
+    },
+    {
+      "text": "nữa",
+      "startSec": 10.53,
+      "endSec": 10.71,
+      "startMs": 10530,
+      "endMs": 10710
+    },
+    {
+      "text": "nhé",
+      "startSec": 10.725,
+      "endSec": 10.92,
+      "startMs": 10725,
+      "endMs": 10920,
+      "phraseEnd": true
+    },
+    {
+      "text": "Trên",
+      "startSec": 11.06,
+      "endSec": 11.285,
+      "startMs": 11060,
+      "endMs": 11285
+    },
+    {
+      "text": "thế",
+      "startSec": 11.3,
+      "endSec": 11.525,
+      "startMs": 11300,
+      "endMs": 11525
+    },
+    {
+      "text": "giới",
+      "startSec": 11.54,
+      "endSec": 11.765,
+      "startMs": 11540,
+      "endMs": 11765
+    },
+    {
+      "text": "này",
+      "startSec": 11.78,
+      "endSec": 12.02,
+      "startMs": 11780,
+      "endMs": 12020,
+      "phraseEnd": true
+    },
+    {
+      "text": "Chẳng",
+      "startSec": 12.2,
+      "endSec": 12.385,
+      "startMs": 12200,
+      "endMs": 12385
+    },
+    {
+      "text": "còn",
+      "startSec": 12.4,
+      "endSec": 12.585,
+      "startMs": 12400,
+      "endMs": 12585
+    },
+    {
+      "text": "lại",
+      "startSec": 12.6,
+      "endSec": 12.785,
+      "startMs": 12600,
+      "endMs": 12785
+    },
+    {
+      "text": "bao",
+      "startSec": 12.8,
+      "endSec": 12.985,
+      "startMs": 12800,
+      "endMs": 12985
+    },
+    {
+      "text": "nhiêu",
+      "startSec": 13,
+      "endSec": 13.185,
+      "startMs": 13000,
+      "endMs": 13185
+    },
+    {
+      "text": "thời",
+      "startSec": 13.2,
+      "endSec": 13.385,
+      "startMs": 13200,
+      "endMs": 13385
+    },
+    {
+      "text": "gian",
+      "startSec": 13.4,
+      "endSec": 13.585,
+      "startMs": 13400,
+      "endMs": 13585
+    },
+    {
+      "text": "nữa",
+      "startSec": 13.6,
+      "endSec": 13.8,
+      "startMs": 13600,
+      "endMs": 13800,
+      "phraseEnd": true
+    },
+    {
+      "text": "Để",
+      "startSec": 13.95,
+      "endSec": 14.142,
+      "startMs": 13950,
+      "endMs": 14142
+    },
+    {
+      "text": "anh",
+      "startSec": 14.157,
+      "endSec": 14.35,
+      "startMs": 14157,
+      "endMs": 14350
+    },
+    {
+      "text": "có",
+      "startSec": 14.365,
+      "endSec": 14.557,
+      "startMs": 14365,
+      "endMs": 14557
+    },
+    {
+      "text": "thể",
+      "startSec": 14.572,
+      "endSec": 14.78,
+      "startMs": 14572,
+      "endMs": 14780,
+      "phraseEnd": true
+    },
+    {
+      "text": "Anh",
+      "startSec": 14.92,
+      "endSec": 15.105,
+      "startMs": 14920,
+      "endMs": 15105
+    },
+    {
+      "text": "thực",
+      "startSec": 15.12,
+      "endSec": 15.305,
+      "startMs": 15120,
+      "endMs": 15305
+    },
+    {
+      "text": "sự",
+      "startSec": 15.32,
+      "endSec": 15.505,
+      "startMs": 15320,
+      "endMs": 15505
+    },
+    {
+      "text": "yêu",
+      "startSec": 15.52,
+      "endSec": 15.705,
+      "startMs": 15520,
+      "endMs": 15705
+    },
+    {
+      "text": "em",
+      "startSec": 15.72,
+      "endSec": 15.905,
+      "startMs": 15720,
+      "endMs": 15905
+    },
+    {
+      "text": "rất",
+      "startSec": 15.92,
+      "endSec": 16.105,
+      "startMs": 15920,
+      "endMs": 16105
+    },
+    {
+      "text": "nhiều",
+      "startSec": 16.12,
+      "endSec": 16.32,
+      "startMs": 16120,
+      "endMs": 16320,
+      "phraseEnd": true
+    },
+    {
+      "text": "Tại",
+      "startSec": 16.48,
+      "endSec": 16.694,
+      "startMs": 16480,
+      "endMs": 16694
+    },
+    {
+      "text": "sao",
+      "startSec": 16.709,
+      "endSec": 16.922,
+      "startMs": 16709,
+      "endMs": 16922
+    },
+    {
+      "text": "em",
+      "startSec": 16.937,
+      "endSec": 17.151,
+      "startMs": 16937,
+      "endMs": 17151
+    },
+    {
+      "text": "lại",
+      "startSec": 17.166,
+      "endSec": 17.379,
+      "startMs": 17166,
+      "endMs": 17379
+    },
+    {
+      "text": "khóc",
+      "startSec": 17.394,
+      "endSec": 17.608,
+      "startMs": 17394,
+      "endMs": 17608
+    },
+    {
+      "text": "cơ",
+      "startSec": 17.623,
+      "endSec": 17.836,
+      "startMs": 17623,
+      "endMs": 17836
+    },
+    {
+      "text": "chứ?",
+      "startSec": 17.851,
+      "endSec": 18.08,
+      "startMs": 17851,
+      "endMs": 18080,
+      "phraseEnd": true
+    },
+    {
+      "text": "Tại",
+      "startSec": 18.24,
+      "endSec": 18.469,
+      "startMs": 18240,
+      "endMs": 18469
+    },
+    {
+      "text": "sao",
+      "startSec": 18.484,
+      "endSec": 18.714,
+      "startMs": 18484,
+      "endMs": 18714
+    },
+    {
+      "text": "em",
+      "startSec": 18.729,
+      "endSec": 18.958,
+      "startMs": 18729,
+      "endMs": 18958
+    },
+    {
+      "text": "lại",
+      "startSec": 18.973,
+      "endSec": 19.202,
+      "startMs": 18973,
+      "endMs": 19202
+    },
+    {
+      "text": "khóc",
+      "startSec": 19.217,
+      "endSec": 19.446,
+      "startMs": 19217,
+      "endMs": 19446
+    },
+    {
+      "text": "cơ",
+      "startSec": 19.461,
+      "endSec": 19.691,
+      "startMs": 19461,
+      "endMs": 19691
+    },
+    {
+      "text": "chứ?",
+      "startSec": 19.706,
+      "endSec": 19.95,
+      "startMs": 19706,
+      "endMs": 19950,
+      "phraseEnd": true
+    },
+    {
+      "text": "Tại",
+      "startSec": 20.14,
+      "endSec": 20.394,
+      "startMs": 20140,
+      "endMs": 20394
+    },
+    {
+      "text": "sao",
+      "startSec": 20.409,
+      "endSec": 20.662,
+      "startMs": 20409,
+      "endMs": 20662
+    },
+    {
+      "text": "em",
+      "startSec": 20.677,
+      "endSec": 20.931,
+      "startMs": 20677,
+      "endMs": 20931
+    },
+    {
+      "text": "lại",
+      "startSec": 20.946,
+      "endSec": 21.199,
+      "startMs": 20946,
+      "endMs": 21199
+    },
+    {
+      "text": "khóc",
+      "startSec": 21.214,
+      "endSec": 21.468,
+      "startMs": 21214,
+      "endMs": 21468
+    },
+    {
+      "text": "cơ",
+      "startSec": 21.483,
+      "endSec": 21.736,
+      "startMs": 21483,
+      "endMs": 21736
+    },
+    {
+      "text": "chứ?",
+      "startSec": 21.751,
+      "endSec": 22.02,
+      "startMs": 21751,
+      "endMs": 22020,
+      "phraseEnd": true
+    },
+    {
+      "text": "Anh",
+      "startSec": 22.24,
+      "endSec": 22.431,
+      "startMs": 22240,
+      "endMs": 22431
+    },
+    {
+      "text": "thực",
+      "startSec": 22.446,
+      "endSec": 22.636,
+      "startMs": 22446,
+      "endMs": 22636
+    },
+    {
+      "text": "sự",
+      "startSec": 22.651,
+      "endSec": 22.842,
+      "startMs": 22651,
+      "endMs": 22842
+    },
+    {
+      "text": "yêu",
+      "startSec": 22.857,
+      "endSec": 23.048,
+      "startMs": 22857,
+      "endMs": 23048
+    },
+    {
+      "text": "em",
+      "startSec": 23.063,
+      "endSec": 23.254,
+      "startMs": 23063,
+      "endMs": 23254
+    },
+    {
+      "text": "rất",
+      "startSec": 23.269,
+      "endSec": 23.459,
+      "startMs": 23269,
+      "endMs": 23459
+    },
+    {
+      "text": "nhiều",
+      "startSec": 23.474,
+      "endSec": 23.68,
+      "startMs": 23474,
+      "endMs": 23680,
+      "phraseEnd": true
+    },
+    {
+      "text": "Hứa",
+      "startSec": 23.78,
+      "endSec": 23.913,
+      "startMs": 23780,
+      "endMs": 23913
+    },
+    {
+      "text": "với",
+      "startSec": 23.928,
+      "endSec": 24.061,
+      "startMs": 23928,
+      "endMs": 24061
+    },
+    {
+      "text": "anh",
+      "startSec": 24.076,
+      "endSec": 24.209,
+      "startMs": 24076,
+      "endMs": 24209
+    },
+    {
+      "text": "là",
+      "startSec": 24.224,
+      "endSec": 24.357,
+      "startMs": 24224,
+      "endMs": 24357
+    },
+    {
+      "text": "em",
+      "startSec": 24.372,
+      "endSec": 24.52,
+      "startMs": 24372,
+      "endMs": 24520,
+      "phraseEnd": true
+    },
+    {
+      "text": "không",
+      "startSec": 24.56,
+      "endSec": 24.725,
+      "startMs": 24560,
+      "endMs": 24725
+    },
+    {
+      "text": "khóc",
+      "startSec": 24.74,
+      "endSec": 24.905,
+      "startMs": 24740,
+      "endMs": 24905
+    },
+    {
+      "text": "nữa",
+      "startSec": 24.92,
+      "endSec": 25.085,
+      "startMs": 24920,
+      "endMs": 25085
+    },
+    {
+      "text": "nhé",
+      "startSec": 25.1,
+      "endSec": 25.28,
+      "startMs": 25100,
+      "endMs": 25280,
+      "phraseEnd": true
+    },
+    {
+      "text": "Trên",
+      "startSec": 25.46,
+      "endSec": 25.675,
+      "startMs": 25460,
+      "endMs": 25675
+    },
+    {
+      "text": "thế",
+      "startSec": 25.69,
+      "endSec": 25.905,
+      "startMs": 25690,
+      "endMs": 25905
+    },
+    {
+      "text": "giới",
+      "startSec": 25.92,
+      "endSec": 26.135,
+      "startMs": 25920,
+      "endMs": 26135
+    },
+    {
+      "text": "này",
+      "startSec": 26.15,
+      "endSec": 26.38,
+      "startMs": 26150,
+      "endMs": 26380,
+      "phraseEnd": true
+    },
+    {
+      "text": "Chẳng",
+      "startSec": 26.62,
+      "endSec": 26.8,
+      "startMs": 26620,
+      "endMs": 26800
+    },
+    {
+      "text": "còn",
+      "startSec": 26.815,
+      "endSec": 26.995,
+      "startMs": 26815,
+      "endMs": 26995
+    },
+    {
+      "text": "lại",
+      "startSec": 27.01,
+      "endSec": 27.19,
+      "startMs": 27010,
+      "endMs": 27190
+    },
+    {
+      "text": "bao",
+      "startSec": 27.205,
+      "endSec": 27.385,
+      "startMs": 27205,
+      "endMs": 27385
+    },
+    {
+      "text": "nhiêu",
+      "startSec": 27.4,
+      "endSec": 27.58,
+      "startMs": 27400,
+      "endMs": 27580
+    },
+    {
+      "text": "thời",
+      "startSec": 27.595,
+      "endSec": 27.775,
+      "startMs": 27595,
+      "endMs": 27775
+    },
+    {
+      "text": "gian",
+      "startSec": 27.79,
+      "endSec": 27.97,
+      "startMs": 27790,
+      "endMs": 27970
+    },
+    {
+      "text": "nữa",
+      "startSec": 27.985,
+      "endSec": 28.18,
+      "startMs": 27985,
+      "endMs": 28180,
+      "phraseEnd": true
+    },
+    {
+      "text": "Để",
+      "startSec": 28.42,
+      "endSec": 28.646,
+      "startMs": 28420,
+      "endMs": 28646
+    },
+    {
+      "text": "anh",
+      "startSec": 28.661,
+      "endSec": 28.888,
+      "startMs": 28661,
+      "endMs": 28888
+    },
+    {
+      "text": "có",
+      "startSec": 28.903,
+      "endSec": 29.129,
+      "startMs": 28903,
+      "endMs": 29129
+    },
+    {
+      "text": "thể",
+      "startSec": 29.144,
+      "endSec": 29.37,
+      "startMs": 29144,
+      "endMs": 29370
+    },
+    {
+      "text": "nhung",
+      "startSec": 29.385,
+      "endSec": 29.611,
+      "startMs": 29385,
+      "endMs": 29611
+    },
+    {
+      "text": "nhớ",
+      "startSec": 29.626,
+      "endSec": 29.852,
+      "startMs": 29626,
+      "endMs": 29852
+    },
+    {
+      "text": "về",
+      "startSec": 29.867,
+      "endSec": 30.094,
+      "startMs": 29867,
+      "endMs": 30094
+    },
+    {
+      "text": "em",
+      "startSec": 30.109,
+      "endSec": 30.35,
+      "startMs": 30109,
+      "endMs": 30350,
+      "phraseEnd": true
+    }
+  ]
+}

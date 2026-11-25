@@ -1,0 +1,7380 @@
+{
+  "storyboard": {
+    "id": "hk1999-dreamy",
+    "title": "Dạo Bước Hồng Kông 1999",
+    "stylePackId": "dreamy-glow-dark",
+    "fps": 30,
+    "durationInFrames": 735,
+    "audioSrc": "audio/hk1999-vn.mp3",
+    "cameraKeyframes": [
+      {
+        "frame": 0,
+        "x": 600,
+        "y": 450,
+        "zoom": 1,
+        "rotateDeg": 0,
+        "easing": "hold"
+      },
+      {
+        "frame": 24,
+        "x": 600,
+        "y": 450,
+        "zoom": 1,
+        "rotateDeg": 0,
+        "easing": "hold"
+      },
+      {
+        "frame": 25,
+        "x": 600,
+        "y": 450,
+        "zoom": 1.02,
+        "rotateDeg": 2,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 40,
+        "x": 554,
+        "y": 474,
+        "zoom": 1.0404,
+        "rotateDeg": -1.2,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 55,
+        "x": 705,
+        "y": 394,
+        "zoom": 0.97,
+        "rotateDeg": -1.6,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 94,
+        "x": 751,
+        "y": 370,
+        "zoom": 0.9894,
+        "rotateDeg": 0.96,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 133,
+        "x": 516,
+        "y": 499,
+        "zoom": 1.03,
+        "rotateDeg": 2.4,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 157,
+        "x": 470,
+        "y": 523,
+        "zoom": 1.0506,
+        "rotateDeg": -1.44,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 180,
+        "x": 698,
+        "y": 513,
+        "zoom": 0.99,
+        "rotateDeg": -2,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 203,
+        "x": 744,
+        "y": 489,
+        "zoom": 1.0098,
+        "rotateDeg": 1.2,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 225,
+        "x": 495,
+        "y": 401,
+        "zoom": 1.02,
+        "rotateDeg": 1.2,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 261,
+        "x": 449,
+        "y": 425,
+        "zoom": 1.0404,
+        "rotateDeg": -0.72,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 296,
+        "x": 663,
+        "y": 380,
+        "zoom": 0.98,
+        "rotateDeg": -2.4,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 345,
+        "x": 709,
+        "y": 356,
+        "zoom": 0.9996,
+        "rotateDeg": 1.44,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 394,
+        "x": 544,
+        "y": 520,
+        "zoom": 1.02,
+        "rotateDeg": 2,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 443,
+        "x": 498,
+        "y": 544,
+        "zoom": 1.0404,
+        "rotateDeg": -1.2,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 491,
+        "x": 691,
+        "y": 492,
+        "zoom": 0.97,
+        "rotateDeg": -1.6,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 564,
+        "x": 737,
+        "y": 468,
+        "zoom": 0.9894,
+        "rotateDeg": 0.96,
+        "easing": "cubicOut"
+      },
+      {
+        "frame": 666,
+        "x": 751,
+        "y": 462,
+        "zoom": 1.12,
+        "rotateDeg": 0,
+        "easing": "cubicOut"
+      }
+    ],
+    "cameraWobble": {
+      "rotDeg": 2,
+      "zoomPct": 0.02,
+      "panPx": 22,
+      "periodSec": 2.6
+    },
+    "cameraSmoothing": {
+      "omega": 0.2,
+      "zeta": 0.85
+    },
+    "graphics": [
+      {
+        "kind": "bokehField",
+        "id": "dream-ambient-bokeh",
+        "startFrame": 0,
+        "endFrame": 735,
+        "count": 16,
+        "color": "#FFF066",
+        "sparkleColor": "#D6B4FF",
+        "seed": 1999,
+        "screenFixed": true,
+        "zIndex": 4
+      },
+      {
+        "startFrame": 27,
+        "endFrame": 80,
+        "kind": "doodle",
+        "id": "dream-s0-dd-star-a",
+        "shape": "star",
+        "x": 120,
+        "y": 150,
+        "size": 210,
+        "color": "#FFF066",
+        "blurPx": 5,
+        "opacity": 0.55,
+        "spinDegPerSec": 18,
+        "phase": 0.934264113449899,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 27,
+        "endFrame": 80,
+        "kind": "doodle",
+        "id": "dream-s0-dd-star-b",
+        "shape": "star",
+        "x": 102.37366756278789,
+        "y": 752.8467783753331,
+        "size": 78,
+        "color": "#D6B4FF",
+        "spinDegPerSec": -28,
+        "phase": 0.9450959109308315,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 27,
+        "endFrame": 80,
+        "kind": "doodle",
+        "id": "dream-s0-dd-moon",
+        "shape": "moon",
+        "x": 499.18859202769454,
+        "y": 810,
+        "size": 260,
+        "color": "rgba(255, 246, 168, 0.7)",
+        "blurPx": 8,
+        "glow": false,
+        "driftPx": 16,
+        "phase": 0.865908076550113,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 27,
+        "endFrame": 80,
+        "kind": "starburst",
+        "id": "dream-s0-dd-burst",
+        "x": 1098.1696813556482,
+        "y": 157.7759063425765,
+        "radius": 148,
+        "points": 12,
+        "innerRatio": 0.62,
+        "fill": "transparent",
+        "stroke": "#9B5CFF",
+        "strokeWidth": 3,
+        "spinDegPerSec": 30,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 27,
+        "endFrame": 80,
+        "kind": "doodle",
+        "id": "dream-s0-dd-swirl",
+        "shape": "swirl",
+        "x": 850,
+        "y": 780,
+        "size": 360,
+        "color": "#EFE3C8",
+        "rotateDeg": -6.889732597104739,
+        "zIndex": 0
+      },
+      {
+        "kind": "starburst",
+        "x": 775,
+        "y": 364,
+        "radius": 340,
+        "points": 14,
+        "innerRatio": 0.7,
+        "fill": "transparent",
+        "stroke": "#FFF066",
+        "strokeWidth": 4,
+        "spinDegPerSec": -14,
+        "zIndex": 6,
+        "id": "dream-s1-decor0",
+        "startFrame": 64,
+        "endFrame": 158
+      },
+      {
+        "startFrame": 57,
+        "endFrame": 158,
+        "kind": "doodle",
+        "id": "dream-s1-dd-star-a",
+        "shape": "star",
+        "x": 1195,
+        "y": 104,
+        "size": 262,
+        "color": "#FFF066",
+        "blurPx": 5,
+        "opacity": 0.55,
+        "spinDegPerSec": -18,
+        "phase": 0.8619713090411096,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 57,
+        "endFrame": 158,
+        "kind": "doodle",
+        "id": "dream-s1-dd-star-b",
+        "shape": "star",
+        "x": 1170.4982111020945,
+        "y": 697.0911709543943,
+        "size": 84,
+        "color": "#FFF066",
+        "spinDegPerSec": 28,
+        "phase": 0.6684080158011056,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 57,
+        "endFrame": 158,
+        "kind": "starburst",
+        "id": "dream-s1-dd-burst",
+        "x": 215.38653836854792,
+        "y": 698.5954516196798,
+        "radius": 103,
+        "points": 14,
+        "innerRatio": 0.62,
+        "fill": "transparent",
+        "stroke": "#FFF066",
+        "strokeWidth": 3,
+        "spinDegPerSec": -30,
+        "zIndex": 0
+      },
+      {
+        "kind": "stickerBlock",
+        "id": "dream-s1-dd-lime",
+        "startFrame": 57,
+        "endFrame": 158,
+        "x": 225,
+        "y": 84,
+        "width": 78,
+        "height": 78,
+        "rotateDeg": 0,
+        "color": "#E6F25A",
+        "shadow": false,
+        "zIndex": 0
+      },
+      {
+        "kind": "stickerBlock",
+        "id": "dream-s1-dd-ghost",
+        "startFrame": 57,
+        "endFrame": 158,
+        "x": 295,
+        "y": 128,
+        "width": 150,
+        "height": 74,
+        "rotateDeg": 0,
+        "color": "rgba(255, 255, 255, 0.14)",
+        "shadow": false,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 135,
+        "endFrame": 205,
+        "kind": "doodle",
+        "id": "dream-s2-dd-star-a",
+        "shape": "star",
+        "x": 26,
+        "y": 799,
+        "size": 237,
+        "color": "#FFF066",
+        "blurPx": 5,
+        "opacity": 0.55,
+        "spinDegPerSec": 18,
+        "phase": 0.45682962759019574,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 135,
+        "endFrame": 205,
+        "kind": "doodle",
+        "id": "dream-s2-dd-star-b",
+        "shape": "star",
+        "x": 48.65314508098527,
+        "y": 213.33487297741522,
+        "size": 73,
+        "color": "#FFF066",
+        "spinDegPerSec": -28,
+        "phase": 0.379387588999748,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 135,
+        "endFrame": 205,
+        "kind": "doodle",
+        "id": "dream-s2-dd-moon",
+        "shape": "moon",
+        "x": 596.9626315330388,
+        "y": 859,
+        "size": 260,
+        "color": "rgba(255, 246, 168, 0.7)",
+        "blurPx": 8,
+        "glow": false,
+        "driftPx": 16,
+        "phase": 0.590324372467876,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 135,
+        "endFrame": 205,
+        "kind": "starburst",
+        "id": "dream-s2-dd-burst",
+        "x": 992.7443053227544,
+        "y": 813.3200577955577,
+        "radius": 97,
+        "points": 16,
+        "innerRatio": 0.62,
+        "fill": "transparent",
+        "stroke": "#9B5CFF",
+        "strokeWidth": 3,
+        "spinDegPerSec": 30,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 135,
+        "endFrame": 205,
+        "kind": "doodle",
+        "id": "dream-s2-dd-butterfly",
+        "shape": "butterfly",
+        "x": 916,
+        "y": 359,
+        "size": 96,
+        "color": "#FFE15A",
+        "secondaryColor": "#8A6A00",
+        "rotateDeg": 17.140107928935322,
+        "driftPx": 24,
+        "phase": 0.7675586621189723,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 182,
+        "endFrame": 250,
+        "kind": "doodle",
+        "id": "dream-s3-dd-star-a",
+        "shape": "star",
+        "x": 1178,
+        "y": 823,
+        "size": 253,
+        "color": "#FFF066",
+        "blurPx": 5,
+        "opacity": 0.55,
+        "spinDegPerSec": -18,
+        "phase": 0.742022330960026,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 182,
+        "endFrame": 250,
+        "kind": "doodle",
+        "id": "dream-s3-dd-star-b",
+        "shape": "star",
+        "x": 1190.1329083542514,
+        "y": 220.5971926684906,
+        "size": 85,
+        "color": "#D6B4FF",
+        "spinDegPerSec": 28,
+        "phase": 0.48984832638234366,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 182,
+        "endFrame": 250,
+        "kind": "starburst",
+        "id": "dream-s3-dd-burst",
+        "x": 218.94709170865826,
+        "y": 204.25719341740478,
+        "radius": 102,
+        "points": 12,
+        "innerRatio": 0.62,
+        "fill": "transparent",
+        "stroke": "#FFF066",
+        "strokeWidth": 3,
+        "spinDegPerSec": -30,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 182,
+        "endFrame": 250,
+        "kind": "doodle",
+        "id": "dream-s3-dd-swirl",
+        "shape": "swirl",
+        "x": 448,
+        "y": 843,
+        "size": 360,
+        "color": "#EFE3C8",
+        "rotateDeg": -4.162695244944189,
+        "zIndex": 0
+      },
+      {
+        "kind": "doodle",
+        "id": "dream-s3-dd-rosehalo",
+        "shape": "moon",
+        "startFrame": 182,
+        "endFrame": 250,
+        "x": 268,
+        "y": 763,
+        "size": 330,
+        "color": "rgba(255, 120, 150, 0.45)",
+        "blurPx": 12,
+        "glow": false,
+        "zIndex": 0
+      },
+      {
+        "kind": "flower",
+        "id": "dream-s3-dd-rose",
+        "startFrame": 182,
+        "endFrame": 250,
+        "x": 268,
+        "y": 763,
+        "radius": 110,
+        "petals": 9,
+        "color": "#C2183F",
+        "rimColor": "#5E0A20",
+        "tipColor": "#F0557A",
+        "coreColor": "#FFD54A",
+        "spinDegPerSec": 3,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 227,
+        "endFrame": 321,
+        "kind": "doodle",
+        "id": "dream-s4-dd-star-a",
+        "shape": "star",
+        "x": 15,
+        "y": 101,
+        "size": 257,
+        "color": "#FFF066",
+        "blurPx": 5,
+        "opacity": 0.55,
+        "spinDegPerSec": 18,
+        "phase": 0.1940789077161753,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 227,
+        "endFrame": 321,
+        "kind": "doodle",
+        "id": "dream-s4-dd-star-b",
+        "shape": "star",
+        "x": 2.575149501208216,
+        "y": 694.0643291771412,
+        "size": 76,
+        "color": "#FFF066",
+        "spinDegPerSec": -28,
+        "phase": 0.9915427148735034,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 227,
+        "endFrame": 321,
+        "kind": "doodle",
+        "id": "dream-s4-dd-moon",
+        "shape": "moon",
+        "x": 591.3083114661276,
+        "y": 761,
+        "size": 260,
+        "color": "rgba(255, 246, 168, 0.7)",
+        "blurPx": 8,
+        "glow": false,
+        "driftPx": 16,
+        "phase": 0.8369687831946067,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 227,
+        "endFrame": 321,
+        "kind": "starburst",
+        "id": "dream-s4-dd-burst",
+        "x": 978.0597563426272,
+        "y": 115.0776029562403,
+        "radius": 140,
+        "points": 14,
+        "innerRatio": 0.62,
+        "fill": "transparent",
+        "stroke": "#9B5CFF",
+        "strokeWidth": 3,
+        "spinDegPerSec": 30,
+        "zIndex": 0
+      },
+      {
+        "kind": "stickerBlock",
+        "id": "dream-s4-dd-lime",
+        "startFrame": 227,
+        "endFrame": 321,
+        "x": 975,
+        "y": 701,
+        "width": 78,
+        "height": 78,
+        "rotateDeg": 0,
+        "color": "#E6F25A",
+        "shadow": false,
+        "zIndex": 0
+      },
+      {
+        "kind": "stickerBlock",
+        "id": "dream-s4-dd-ghost",
+        "startFrame": 227,
+        "endFrame": 321,
+        "x": 1045,
+        "y": 745,
+        "width": 150,
+        "height": 74,
+        "rotateDeg": 0,
+        "color": "rgba(255, 255, 255, 0.14)",
+        "shadow": false,
+        "zIndex": 0
+      },
+      {
+        "kind": "starburst",
+        "x": 733,
+        "y": 350,
+        "radius": 340,
+        "points": 14,
+        "innerRatio": 0.7,
+        "fill": "transparent",
+        "stroke": "#9B5CFF",
+        "strokeWidth": 4,
+        "spinDegPerSec": -14,
+        "zIndex": 6,
+        "id": "dream-s5-decor0",
+        "startFrame": 340,
+        "endFrame": 419
+      },
+      {
+        "startFrame": 298,
+        "endFrame": 419,
+        "kind": "doodle",
+        "id": "dream-s5-dd-star-a",
+        "shape": "star",
+        "x": 1153,
+        "y": 90,
+        "size": 235,
+        "color": "#FFF066",
+        "blurPx": 5,
+        "opacity": 0.55,
+        "spinDegPerSec": -18,
+        "phase": 0.9846527083827823,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 298,
+        "endFrame": 419,
+        "kind": "doodle",
+        "id": "dream-s5-dd-star-b",
+        "shape": "star",
+        "x": 1161.0994366951927,
+        "y": 685.5661633081036,
+        "size": 75,
+        "color": "#FFF066",
+        "spinDegPerSec": 28,
+        "phase": 0.07794543166710355,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 298,
+        "endFrame": 419,
+        "kind": "starburst",
+        "id": "dream-s5-dd-burst",
+        "x": 178.99070053867763,
+        "y": 674.253539953279,
+        "radius": 87,
+        "points": 16,
+        "innerRatio": 0.62,
+        "fill": "transparent",
+        "stroke": "#FFF066",
+        "strokeWidth": 3,
+        "spinDegPerSec": -30,
+        "zIndex": 0
+      },
+      {
+        "kind": "doodle",
+        "id": "dream-s6-dd-moon",
+        "shape": "moon",
+        "startFrame": 394,
+        "endFrame": 516,
+        "x": 924,
+        "y": 850,
+        "size": 300,
+        "color": "rgba(255, 246, 168, 0.55)",
+        "blurPx": 10,
+        "glow": false,
+        "zIndex": 0
+      },
+      {
+        "kind": "doodle",
+        "id": "dream-s6-dd-star",
+        "shape": "star",
+        "startFrame": 394,
+        "endFrame": 516,
+        "x": 124,
+        "y": 260,
+        "size": 90,
+        "color": "#FFF066",
+        "spinDegPerSec": 10,
+        "opacity": 0.8,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 493,
+        "endFrame": 658,
+        "kind": "doodle",
+        "id": "dream-s7-dd-star-a",
+        "shape": "star",
+        "x": 1171,
+        "y": 802,
+        "size": 270,
+        "color": "#FFF066",
+        "blurPx": 5,
+        "opacity": 0.55,
+        "spinDegPerSec": -18,
+        "phase": 0.1589409276130027,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 493,
+        "endFrame": 658,
+        "kind": "doodle",
+        "id": "dream-s7-dd-star-b",
+        "shape": "star",
+        "x": 1200.5867532517877,
+        "y": 216.68776366287784,
+        "size": 78,
+        "color": "#FFF066",
+        "spinDegPerSec": 28,
+        "phase": 0.5853794490176369,
+        "zIndex": 0
+      },
+      {
+        "startFrame": 493,
+        "endFrame": 658,
+        "kind": "starburst",
+        "id": "dream-s7-dd-burst",
+        "x": 212.53956725953321,
+        "y": 197.05356002482586,
+        "radius": 146,
+        "points": 14,
+        "innerRatio": 0.62,
+        "fill": "transparent",
+        "stroke": "#FFF066",
+        "strokeWidth": 3,
+        "spinDegPerSec": -30,
+        "zIndex": 0
+      },
+      {
+        "kind": "stickerBlock",
+        "id": "dream-s7-dd-lime",
+        "startFrame": 493,
+        "endFrame": 658,
+        "x": 201,
+        "y": 782,
+        "width": 78,
+        "height": 78,
+        "rotateDeg": 0,
+        "color": "#E6F25A",
+        "shadow": false,
+        "zIndex": 0
+      },
+      {
+        "kind": "stickerBlock",
+        "id": "dream-s7-dd-ghost",
+        "startFrame": 493,
+        "endFrame": 658,
+        "x": 271,
+        "y": 826,
+        "width": 150,
+        "height": 74,
+        "rotateDeg": 0,
+        "color": "rgba(255, 255, 255, 0.14)",
+        "shadow": false,
+        "zIndex": 0
+      },
+      {
+        "kind": "mediaCard",
+        "id": "dream-s0-polaroid",
+        "startFrame": 25,
+        "endFrame": 58,
+        "x": 1030,
+        "y": 160,
+        "width": 150,
+        "height": 170,
+        "rotateDeg": 8,
+        "variant": "polaroid-frame",
+        "label": "ước",
+        "parallaxFactor": 0.04,
+        "zIndex": 7
+      }
+    ],
+    "words": [
+      {
+        "id": "dream-s0-w0",
+        "text": "VỀ",
+        "granularity": "sentence",
+        "startFrame": 25,
+        "endFrame": 58,
+        "x": 429,
+        "y": 241,
+        "fontSize": 166,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 4,
+        "color": "transparent",
+        "rotateDeg": -9.5,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 11,
+          "dy": 19,
+          "rot": 1.4,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 31,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": false,
+        "zIndex": 14
+      },
+      {
+        "id": "dream-s0-w1",
+        "text": "LỜI",
+        "granularity": "sentence",
+        "startFrame": 31,
+        "endFrame": 58,
+        "x": 590,
+        "y": 437,
+        "fontSize": 166,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFF066",
+        "rotateDeg": -5.3,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 8,
+          "dy": -16,
+          "rot": 2.5,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": 14,
+          "dy": -20,
+          "triggerFrame": 40,
+          "rotateDeg": 1.5
+        },
+        "beatReactive": true,
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s0-w2",
+        "text": "HẸN",
+        "granularity": "sentence",
+        "startFrame": 40,
+        "endFrame": 58,
+        "x": 593,
+        "y": 597,
+        "fontSize": 116,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#9B5CFF",
+        "rotateDeg": -4.4,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 10,
+          "dy": -9,
+          "rot": 3.4,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 45,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": false,
+        "zIndex": 16
+      },
+      {
+        "id": "dream-s0-w3",
+        "text": "ƯỚC",
+        "granularity": "sentence",
+        "startFrame": 45,
+        "endFrame": 58,
+        "x": 809,
+        "y": 675,
+        "fontSize": 118,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FF5C8A",
+        "rotateDeg": -13.2,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -2,
+          "dy": -8,
+          "rot": 2.6,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 17
+      },
+      {
+        "id": "dream-s0-g0-0",
+        "text": "VỀ",
+        "granularity": "sentence",
+        "startFrame": 29,
+        "endFrame": 58,
+        "x": 460,
+        "y": 190,
+        "fontSize": 166,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -5.6,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 20,
+          "dy": -32,
+          "rot": 2.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s0-g0-1",
+        "text": "VỀ",
+        "granularity": "sentence",
+        "startFrame": 30,
+        "endFrame": 58,
+        "x": 348,
+        "y": 186,
+        "fontSize": 154,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -8.2,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -35,
+          "dy": -23,
+          "rot": 1,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s0-g1-0",
+        "text": "LỜI",
+        "granularity": "sentence",
+        "startFrame": 35,
+        "endFrame": 58,
+        "x": 533,
+        "y": 415,
+        "fontSize": 166,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -4.5,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -42,
+          "dy": -15,
+          "rot": 0.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s0-g1-1",
+        "text": "LỜI",
+        "granularity": "sentence",
+        "startFrame": 36,
+        "endFrame": 58,
+        "x": 659,
+        "y": 365,
+        "fontSize": 154,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -1.1,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 28,
+          "dy": -29,
+          "rot": 2.5,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s0-g2-0",
+        "text": "HẸN",
+        "granularity": "sentence",
+        "startFrame": 44,
+        "endFrame": 58,
+        "x": 665,
+        "y": 581,
+        "fontSize": 116,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 1.1,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 44,
+          "dy": -10,
+          "rot": 3,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s0-g3-0",
+        "text": "ƯỚC",
+        "granularity": "sentence",
+        "startFrame": 49,
+        "endFrame": 58,
+        "x": 877,
+        "y": 651,
+        "fontSize": 118,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FF5C8A",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -8,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 42,
+          "dy": -14,
+          "rot": 3,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s0-m0",
+        "text": "hẹn",
+        "granularity": "sentence",
+        "startFrame": 49,
+        "endFrame": 58,
+        "x": 235,
+        "y": 530,
+        "fontSize": 40,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 2,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 10,
+          "dy": 6,
+          "rot": 1,
+          "scale": 0.1
+        },
+        "zIndex": 40
+      },
+      {
+        "id": "dream-s0-m1",
+        "text": "về",
+        "granularity": "sentence",
+        "startFrame": 37,
+        "endFrame": 58,
+        "x": 984,
+        "y": 426,
+        "fontSize": 41,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -9,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 18,
+          "dy": -25,
+          "rot": -3,
+          "scale": 0.1
+        },
+        "zIndex": 52
+      },
+      {
+        "id": "dream-s0-m2",
+        "text": "về",
+        "granularity": "sentence",
+        "startFrame": 42,
+        "endFrame": 58,
+        "x": 805,
+        "y": 467,
+        "fontSize": 43,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -11,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 29,
+          "dy": -33,
+          "rot": -4,
+          "scale": 0.1
+        },
+        "zIndex": 64
+      },
+      {
+        "id": "dream-s0-m3",
+        "text": "hẹn",
+        "granularity": "sentence",
+        "startFrame": 46,
+        "endFrame": 58,
+        "x": 379,
+        "y": 526,
+        "fontSize": 32,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 6,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -34,
+          "dy": 16,
+          "rot": 2,
+          "scale": 0.1
+        },
+        "zIndex": 76
+      },
+      {
+        "id": "dream-s0-m4",
+        "text": "ước",
+        "granularity": "sentence",
+        "startFrame": 52,
+        "endFrame": 58,
+        "x": 812,
+        "y": 166,
+        "fontSize": 43,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 7,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 31,
+          "dy": 20,
+          "rot": 2,
+          "scale": 0.1
+        },
+        "zIndex": 88
+      },
+      {
+        "id": "dream-s1-w0",
+        "text": "nếu",
+        "granularity": "sentence",
+        "startFrame": 55,
+        "endFrame": 136,
+        "x": 890,
+        "y": 196,
+        "fontSize": 55,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": -10.1,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -50,
+          "dy": 12,
+          "rot": 2.6,
+          "scale": 0.06
+        },
+        "beatReactive": true,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s1-w1",
+        "text": "DUYÊN",
+        "granularity": "sentence",
+        "startFrame": 64,
+        "endFrame": 136,
+        "x": 781,
+        "y": 367,
+        "fontSize": 258,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#9B5CFF",
+        "rotateDeg": 0.5,
+        "entrance": "char-spring",
+        "entranceDurationFrames": 12,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "deepGlow": true,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 68,
+          "dy": -17,
+          "rot": 3.6,
+          "scale": 0.1
+        },
+        "beatReactive": true,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s1-w2",
+        "text": "tình",
+        "granularity": "sentence",
+        "startFrame": 69,
+        "endFrame": 136,
+        "x": 362,
+        "y": 599,
+        "fontSize": 49,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#FF5C8A",
+        "rotateDeg": -6.8,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 40,
+          "dy": -27,
+          "rot": -0.8,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s1-w3",
+        "text": "ta",
+        "granularity": "sentence",
+        "startFrame": 81,
+        "endFrame": 136,
+        "x": 579,
+        "y": 596,
+        "fontSize": 59,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": 10.8,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 39,
+          "dy": -17,
+          "rot": 2.6,
+          "scale": 0.06
+        },
+        "beatReactive": true,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s1-w4",
+        "text": "có",
+        "granularity": "sentence",
+        "startFrame": 91,
+        "endFrame": 136,
+        "x": 823,
+        "y": 573,
+        "fontSize": 52,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": -10.3,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -29,
+          "dy": -17,
+          "rot": -1.9,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s1-w5",
+        "text": "lỡ",
+        "granularity": "sentence",
+        "startFrame": 100,
+        "endFrame": 136,
+        "x": 1003,
+        "y": 623,
+        "fontSize": 55,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 8.2,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -22,
+          "dy": -15,
+          "rot": 0.3,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s1-g0-0",
+        "text": "DUYÊN",
+        "granularity": "sentence",
+        "startFrame": 68,
+        "endFrame": 136,
+        "x": 801,
+        "y": 313,
+        "fontSize": 258,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 4,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 13,
+          "dy": -35,
+          "rot": 2,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s1-g0-1",
+        "text": "DUYÊN",
+        "granularity": "sentence",
+        "startFrame": 69,
+        "endFrame": 136,
+        "x": 708,
+        "y": 421,
+        "fontSize": 240,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -0.9,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -34,
+          "dy": 25,
+          "rot": -1,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s1-m0",
+        "text": "có",
+        "granularity": "sentence",
+        "startFrame": 97,
+        "endFrame": 136,
+        "x": 1091,
+        "y": 158,
+        "fontSize": 32,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 7,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -32,
+          "dy": 20,
+          "rot": 2,
+          "scale": 0.1
+        },
+        "zIndex": 40
+      },
+      {
+        "id": "dream-s1-m1",
+        "text": "duyên",
+        "granularity": "sentence",
+        "startFrame": 73,
+        "endFrame": 136,
+        "x": 327,
+        "y": 175,
+        "fontSize": 39,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -8,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 6,
+          "dy": -23,
+          "rot": -3,
+          "scale": 0.1
+        },
+        "zIndex": 52
+      },
+      {
+        "id": "dream-s1-m2",
+        "text": "lỡ",
+        "granularity": "sentence",
+        "startFrame": 107,
+        "endFrame": 136,
+        "x": 374,
+        "y": 675,
+        "fontSize": 33,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 10,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -26,
+          "dy": 30,
+          "rot": 3,
+          "scale": 0.1
+        },
+        "zIndex": 64
+      },
+      {
+        "id": "dream-s1-m3",
+        "text": "ta",
+        "granularity": "sentence",
+        "startFrame": 87,
+        "endFrame": 136,
+        "x": 678,
+        "y": 110,
+        "fontSize": 33,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 0,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -31,
+          "dy": 0,
+          "rot": 0,
+          "scale": 0.1
+        },
+        "zIndex": 76
+      },
+      {
+        "id": "dream-s1-m4",
+        "text": "lỡ",
+        "granularity": "sentence",
+        "startFrame": 109,
+        "endFrame": 136,
+        "x": 550,
+        "y": 117,
+        "fontSize": 40,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 11,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 9,
+          "dy": 32,
+          "rot": 4,
+          "scale": 0.1
+        },
+        "zIndex": 88
+      },
+      {
+        "id": "dream-s1-m5",
+        "text": "nếu",
+        "granularity": "sentence",
+        "startFrame": 84,
+        "endFrame": 136,
+        "x": 828,
+        "y": 658,
+        "fontSize": 34,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -8,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -20,
+          "dy": -24,
+          "rot": -3,
+          "scale": 0.1
+        },
+        "zIndex": 100
+      },
+      {
+        "id": "dream-s2-w0",
+        "text": "TÌNH",
+        "granularity": "sentence",
+        "startFrame": 133,
+        "endFrame": 183,
+        "x": 399,
+        "y": 287,
+        "fontSize": 134,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 4,
+        "color": "transparent",
+        "rotateDeg": -11.2,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 4,
+          "dy": 32,
+          "rot": 2,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 141,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": true,
+        "zIndex": 14
+      },
+      {
+        "id": "dream-s2-w1",
+        "text": "NỒNG",
+        "granularity": "sentence",
+        "startFrame": 141,
+        "endFrame": 183,
+        "x": 474,
+        "y": 445,
+        "fontSize": 110,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FF5C8A",
+        "rotateDeg": -4.1,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -4,
+          "dy": -27,
+          "rot": 1.8,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": 14,
+          "dy": -20,
+          "triggerFrame": 151,
+          "rotateDeg": 1.5
+        },
+        "beatReactive": true,
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s2-w2",
+        "text": "LÀM",
+        "granularity": "sentence",
+        "startFrame": 151,
+        "endFrame": 183,
+        "x": 496,
+        "y": 570,
+        "fontSize": 96,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": -8.1,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 24,
+          "dy": 7,
+          "rot": -3.5,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 155,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": false,
+        "zIndex": 16
+      },
+      {
+        "id": "dream-s2-w3",
+        "text": "SAO",
+        "granularity": "sentence",
+        "startFrame": 155,
+        "endFrame": 183,
+        "x": 580,
+        "y": 675,
+        "fontSize": 68,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": -14,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -12,
+          "dy": -15,
+          "rot": -1.2,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": 14,
+          "dy": -20,
+          "triggerFrame": 165,
+          "rotateDeg": 1.5
+        },
+        "beatReactive": false,
+        "zIndex": 17
+      },
+      {
+        "id": "dream-s2-w4",
+        "text": "GIẤU",
+        "granularity": "sentence",
+        "startFrame": 165,
+        "endFrame": 183,
+        "x": 622,
+        "y": 761,
+        "fontSize": 56,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFF066",
+        "rotateDeg": -11.1,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -2,
+          "dy": -11,
+          "rot": 1.2,
+          "scale": 0.06
+        },
+        "beatReactive": true,
+        "zIndex": 18
+      },
+      {
+        "id": "dream-s2-g0-0",
+        "text": "TÌNH",
+        "granularity": "sentence",
+        "startFrame": 137,
+        "endFrame": 183,
+        "x": 439,
+        "y": 309,
+        "fontSize": 134,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -16,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 38,
+          "dy": 20,
+          "rot": -3,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s2-g0-1",
+        "text": "TÌNH",
+        "granularity": "sentence",
+        "startFrame": 138,
+        "endFrame": 183,
+        "x": 487,
+        "y": 298,
+        "fontSize": 125,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -16.9,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 45,
+          "dy": 6,
+          "rot": -3.5,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s2-g1-0",
+        "text": "NỒNG",
+        "granularity": "sentence",
+        "startFrame": 145,
+        "endFrame": 183,
+        "x": 503,
+        "y": 478,
+        "fontSize": 110,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FF5C8A",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -8.2,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 26,
+          "dy": 30,
+          "rot": -2.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s2-g2-0",
+        "text": "LÀM",
+        "granularity": "sentence",
+        "startFrame": 155,
+        "endFrame": 183,
+        "x": 511,
+        "y": 516,
+        "fontSize": 96,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -4.7,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 10,
+          "dy": -35,
+          "rot": 2,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s2-g3-0",
+        "text": "SAO",
+        "granularity": "sentence",
+        "startFrame": 159,
+        "endFrame": 183,
+        "x": 602,
+        "y": 622,
+        "fontSize": 68,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -10.4,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 15,
+          "dy": -34,
+          "rot": 2,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s2-m0",
+        "text": "nồng",
+        "granularity": "sentence",
+        "startFrame": 150,
+        "endFrame": 183,
+        "x": 224,
+        "y": 484,
+        "fontSize": 39,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -6,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 8,
+          "dy": -16,
+          "rot": -2,
+          "scale": 0.1
+        },
+        "zIndex": 40
+      },
+      {
+        "id": "dream-s2-m1",
+        "text": "sao",
+        "granularity": "sentence",
+        "startFrame": 165,
+        "endFrame": 183,
+        "x": 436,
+        "y": 681,
+        "fontSize": 42,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 6,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 23,
+          "dy": 17,
+          "rot": 2,
+          "scale": 0.1
+        },
+        "zIndex": 52
+      },
+      {
+        "id": "dream-s2-m2",
+        "text": "giấu",
+        "granularity": "sentence",
+        "startFrame": 172,
+        "endFrame": 183,
+        "x": 816,
+        "y": 592,
+        "fontSize": 34,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 9,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -21,
+          "dy": 28,
+          "rot": 3,
+          "scale": 0.1
+        },
+        "zIndex": 64
+      },
+      {
+        "id": "dream-s2-m3",
+        "text": "sao",
+        "granularity": "sentence",
+        "startFrame": 165,
+        "endFrame": 183,
+        "x": 772,
+        "y": 470,
+        "fontSize": 41,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 4,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 16,
+          "dy": 12,
+          "rot": 1,
+          "scale": 0.1
+        },
+        "zIndex": 76
+      },
+      {
+        "id": "dream-s3-w0",
+        "text": "NHỮNG",
+        "granularity": "sentence",
+        "startFrame": 180,
+        "endFrame": 228,
+        "x": 810,
+        "y": 355,
+        "fontSize": 135,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFF066",
+        "rotateDeg": -0.2,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -19,
+          "dy": 27,
+          "rot": -0.5,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 14
+      },
+      {
+        "id": "dream-s3-w1",
+        "text": "LUYẾN",
+        "granularity": "sentence",
+        "startFrame": 191,
+        "endFrame": 228,
+        "x": 470,
+        "y": 513,
+        "fontSize": 234,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#9B5CFF",
+        "rotateDeg": 86,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "deepGlow": true,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 38,
+          "dy": -11,
+          "rot": -1.8,
+          "scale": 0.1
+        },
+        "beatReactive": true,
+        "zIndex": 1
+      },
+      {
+        "id": "dream-s3-w2",
+        "text": "LƯU",
+        "granularity": "sentence",
+        "startFrame": 196,
+        "endFrame": 228,
+        "x": 804,
+        "y": 501,
+        "fontSize": 133,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": 4,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 24,
+          "dy": 7,
+          "rot": -3.5,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s3-w3",
+        "text": "TRÀN",
+        "granularity": "sentence",
+        "startFrame": 206,
+        "endFrame": 228,
+        "x": 796,
+        "y": 627,
+        "fontSize": 87,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": -4.9,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -15,
+          "dy": -8,
+          "rot": -1.4,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 16
+      },
+      {
+        "id": "dream-s3-w4",
+        "text": "DÂNG",
+        "granularity": "sentence",
+        "startFrame": 216,
+        "endFrame": 228,
+        "x": 812,
+        "y": 727,
+        "fontSize": 77,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": 6.7,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -8,
+          "dy": -5,
+          "rot": -2.3,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 17
+      },
+      {
+        "id": "dream-s3-g0-0",
+        "text": "NHỮNG",
+        "granularity": "sentence",
+        "startFrame": 184,
+        "endFrame": 228,
+        "x": 796,
+        "y": 397,
+        "fontSize": 135,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -2.7,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -12,
+          "dy": 35,
+          "rot": -1.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s3-g0-1",
+        "text": "NHỮNG",
+        "granularity": "sentence",
+        "startFrame": 185,
+        "endFrame": 228,
+        "x": 715,
+        "y": 320,
+        "fontSize": 126,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 0.6,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -42,
+          "dy": -15,
+          "rot": 0.5,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s3-g1-0",
+        "text": "LUYẾN",
+        "granularity": "sentence",
+        "startFrame": 195,
+        "endFrame": 228,
+        "x": 490,
+        "y": 551,
+        "fontSize": 234,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 82.2,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 18,
+          "dy": 33,
+          "rot": -2,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s3-g1-1",
+        "text": "LUYẾN",
+        "granularity": "sentence",
+        "startFrame": 196,
+        "endFrame": 228,
+        "x": 532,
+        "y": 437,
+        "fontSize": 218,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 90.1,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 25,
+          "dy": -30,
+          "rot": 2.5,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s3-g2-0",
+        "text": "LƯU",
+        "granularity": "sentence",
+        "startFrame": 200,
+        "endFrame": 228,
+        "x": 843,
+        "y": 524,
+        "fontSize": 133,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -0.8,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 37,
+          "dy": 22,
+          "rot": -3,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s3-g2-1",
+        "text": "LƯU",
+        "granularity": "sentence",
+        "startFrame": 201,
+        "endFrame": 228,
+        "x": 706,
+        "y": 522,
+        "fontSize": 124,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 3.5,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -44,
+          "dy": 9,
+          "rot": -0.5,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s3-g3-0",
+        "text": "TRÀN",
+        "granularity": "sentence",
+        "startFrame": 210,
+        "endFrame": 228,
+        "x": 842,
+        "y": 631,
+        "fontSize": 87,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -10.7,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 46,
+          "dy": 4,
+          "rot": -3.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s3-g4-0",
+        "text": "DÂNG",
+        "granularity": "sentence",
+        "startFrame": 220,
+        "endFrame": 228,
+        "x": 753,
+        "y": 736,
+        "fontSize": 77,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 6.3,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -45,
+          "dy": 7,
+          "rot": 0,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s3-m1",
+        "text": "luyến",
+        "granularity": "sentence",
+        "startFrame": 199,
+        "endFrame": 228,
+        "x": 1080,
+        "y": 795,
+        "fontSize": 36,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -3,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -11,
+          "dy": -9,
+          "rot": -1,
+          "scale": 0.1
+        },
+        "zIndex": 52
+      },
+      {
+        "id": "dream-s3-m2",
+        "text": "những",
+        "granularity": "sentence",
+        "startFrame": 196,
+        "endFrame": 228,
+        "x": 857,
+        "y": 247,
+        "fontSize": 38,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -8,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 0,
+          "dy": -23,
+          "rot": -3,
+          "scale": 0.1
+        },
+        "zIndex": 64
+      },
+      {
+        "id": "dream-s3-m3",
+        "text": "những",
+        "granularity": "sentence",
+        "startFrame": 203,
+        "endFrame": 228,
+        "x": 1041,
+        "y": 732,
+        "fontSize": 45,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -8,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 40,
+          "dy": -23,
+          "rot": -3,
+          "scale": 0.1
+        },
+        "zIndex": 76
+      },
+      {
+        "id": "dream-s3-m5",
+        "text": "tràn",
+        "granularity": "sentence",
+        "startFrame": 217,
+        "endFrame": 228,
+        "x": 1003,
+        "y": 516,
+        "fontSize": 45,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 7,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 40,
+          "dy": 20,
+          "rot": 2,
+          "scale": 0.1
+        },
+        "zIndex": 100
+      },
+      {
+        "id": "dream-s4-w0",
+        "text": "CHUYỆN",
+        "granularity": "sentence",
+        "startFrame": 225,
+        "endFrame": 299,
+        "x": 436,
+        "y": 147,
+        "fontSize": 80,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFF066",
+        "rotateDeg": 3.7,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 29,
+          "dy": 34,
+          "rot": -1.8,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 236,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": true,
+        "zIndex": 14
+      },
+      {
+        "id": "dream-s4-w1",
+        "text": "MÌNH",
+        "granularity": "sentence",
+        "startFrame": 236,
+        "endFrame": 299,
+        "x": 558,
+        "y": 240,
+        "fontSize": 77,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#9B5CFF",
+        "rotateDeg": 1.5,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 17,
+          "dy": 38,
+          "rot": -3.6,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": 14,
+          "dy": -20,
+          "triggerFrame": 246,
+          "rotateDeg": 1.5
+        },
+        "beatReactive": false,
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s4-w2",
+        "text": "ĐỂ",
+        "granularity": "sentence",
+        "startFrame": 246,
+        "endFrame": 299,
+        "x": 461,
+        "y": 319,
+        "fontSize": 66,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFF066",
+        "rotateDeg": -7.2,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -36,
+          "dy": 18,
+          "rot": -0.7,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 251,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": false,
+        "zIndex": 16
+      },
+      {
+        "id": "dream-s4-w3",
+        "text": "VẦNG",
+        "granularity": "sentence",
+        "startFrame": 251,
+        "endFrame": 299,
+        "x": 592,
+        "y": 353,
+        "fontSize": 77,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FF5C8A",
+        "rotateDeg": 0.7,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -25,
+          "dy": 23,
+          "rot": -2.1,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": 14,
+          "dy": -20,
+          "triggerFrame": 256,
+          "rotateDeg": 1.5
+        },
+        "beatReactive": false,
+        "zIndex": 17
+      },
+      {
+        "id": "dream-s4-w4",
+        "text": "TRĂNG",
+        "granularity": "sentence",
+        "startFrame": 256,
+        "endFrame": 299,
+        "x": 487,
+        "y": 432,
+        "fontSize": 65,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": -1.9,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -32,
+          "dy": 11,
+          "rot": -0.5,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 265,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": true,
+        "zIndex": 18
+      },
+      {
+        "id": "dream-s4-w5",
+        "text": "KIA",
+        "granularity": "sentence",
+        "startFrame": 265,
+        "endFrame": 299,
+        "x": 370,
+        "y": 519,
+        "fontSize": 63,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#9B5CFF",
+        "rotateDeg": 0.6,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 21,
+          "dy": -14,
+          "rot": 0.2,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": 14,
+          "dy": -20,
+          "triggerFrame": 275,
+          "rotateDeg": 1.5
+        },
+        "beatReactive": false,
+        "zIndex": 19
+      },
+      {
+        "id": "dream-s4-w6",
+        "text": "CHỨNG",
+        "granularity": "sentence",
+        "startFrame": 275,
+        "endFrame": 299,
+        "x": 558,
+        "y": 573,
+        "fontSize": 92,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFF066",
+        "rotateDeg": 4,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -16,
+          "dy": -8,
+          "rot": -3.4,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 281,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": false,
+        "zIndex": 20
+      },
+      {
+        "id": "dream-s4-w7",
+        "text": "GIÁM",
+        "granularity": "sentence",
+        "startFrame": 281,
+        "endFrame": 299,
+        "x": 438,
+        "y": 667,
+        "fontSize": 71,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FF5C8A",
+        "rotateDeg": 0.7,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 12,
+          "dy": -6,
+          "rot": 3.9,
+          "scale": 0.06
+        },
+        "beatReactive": true,
+        "zIndex": 21
+      },
+      {
+        "id": "dream-s4-w8",
+        "text": "CHUYỆN",
+        "granularity": "sentence",
+        "startFrame": 225,
+        "endFrame": 299,
+        "x": 495,
+        "y": 421,
+        "fontSize": 433,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#9B5CFF",
+        "baseOpacity": 0.3,
+        "blurPx": 6,
+        "rotateDeg": -6,
+        "entrance": "fade-focus",
+        "entranceDurationFrames": 10,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 5.6,
+        "travel": {
+          "dx": -30,
+          "dy": 52,
+          "rot": -1.4,
+          "scale": 0.1
+        },
+        "beatReactive": true,
+        "zIndex": 1
+      },
+      {
+        "id": "dream-s4-g0-0",
+        "text": "CHUYỆN",
+        "granularity": "sentence",
+        "startFrame": 229,
+        "endFrame": 299,
+        "x": 378,
+        "y": 129,
+        "fontSize": 80,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 4.4,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -43,
+          "dy": -13,
+          "rot": 0.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s4-g1-0",
+        "text": "MÌNH",
+        "granularity": "sentence",
+        "startFrame": 240,
+        "endFrame": 299,
+        "x": 615,
+        "y": 204,
+        "fontSize": 77,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 6.2,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 36,
+          "dy": -23,
+          "rot": 2.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s4-g2-0",
+        "text": "ĐỂ",
+        "granularity": "sentence",
+        "startFrame": 250,
+        "endFrame": 299,
+        "x": 491,
+        "y": 351,
+        "fontSize": 66,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -11.4,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 28,
+          "dy": 29,
+          "rot": -2.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s4-g3-0",
+        "text": "VẦNG",
+        "granularity": "sentence",
+        "startFrame": 255,
+        "endFrame": 299,
+        "x": 532,
+        "y": 340,
+        "fontSize": 77,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FF5C8A",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 1.2,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -44,
+          "dy": -10,
+          "rot": 0.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s4-g4-0",
+        "text": "TRĂNG",
+        "granularity": "sentence",
+        "startFrame": 260,
+        "endFrame": 299,
+        "x": 522,
+        "y": 460,
+        "fontSize": 65,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -6.4,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 32,
+          "dy": 26,
+          "rot": -2.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s4-g5-0",
+        "text": "KIA",
+        "granularity": "sentence",
+        "startFrame": 269,
+        "endFrame": 299,
+        "x": 400,
+        "y": 468,
+        "fontSize": 63,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 4.4,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 20,
+          "dy": -33,
+          "rot": 2,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s4-g6-0",
+        "text": "CHỨNG",
+        "granularity": "sentence",
+        "startFrame": 279,
+        "endFrame": 299,
+        "x": 572,
+        "y": 519,
+        "fontSize": 92,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 7.4,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 9,
+          "dy": -35,
+          "rot": 2,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s4-g7-0",
+        "text": "GIÁM",
+        "granularity": "sentence",
+        "startFrame": 285,
+        "endFrame": 299,
+        "x": 508,
+        "y": 646,
+        "fontSize": 71,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FF5C8A",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 6,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 43,
+          "dy": -12,
+          "rot": 3,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s4-m0",
+        "text": "trăng",
+        "granularity": "sentence",
+        "startFrame": 263,
+        "endFrame": 299,
+        "x": 297,
+        "y": 233,
+        "fontSize": 35,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 0,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -17,
+          "dy": 0,
+          "rot": 0,
+          "scale": 0.1
+        },
+        "zIndex": 40
+      },
+      {
+        "id": "dream-s4-m1",
+        "text": "giám",
+        "granularity": "sentence",
+        "startFrame": 287,
+        "endFrame": 299,
+        "x": 701,
+        "y": 440,
+        "fontSize": 31,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 11,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -40,
+          "dy": 31,
+          "rot": 4,
+          "scale": 0.1
+        },
+        "zIndex": 52
+      },
+      {
+        "id": "dream-s4-m2",
+        "text": "để",
+        "granularity": "sentence",
+        "startFrame": 257,
+        "endFrame": 299,
+        "x": 794,
+        "y": 401,
+        "fontSize": 45,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -5,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 40,
+          "dy": -14,
+          "rot": -2,
+          "scale": 0.1
+        },
+        "zIndex": 64
+      },
+      {
+        "id": "dream-s4-m3",
+        "text": "kia",
+        "granularity": "sentence",
+        "startFrame": 276,
+        "endFrame": 299,
+        "x": 172,
+        "y": 678,
+        "fontSize": 46,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 3,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 43,
+          "dy": 10,
+          "rot": 1,
+          "scale": 0.1
+        },
+        "zIndex": 76
+      },
+      {
+        "id": "dream-s5-w0",
+        "text": "hẹn",
+        "granularity": "sentence",
+        "startFrame": 296,
+        "endFrame": 397,
+        "x": 318,
+        "y": 136,
+        "fontSize": 63,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": -7,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 10,
+          "dy": 41,
+          "rot": 3.8,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s5-w1",
+        "text": "hò",
+        "granularity": "sentence",
+        "startFrame": 306,
+        "endFrame": 397,
+        "x": 542,
+        "y": 145,
+        "fontSize": 76,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 4.9,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 35,
+          "dy": 31,
+          "rot": -1.3,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s5-w2",
+        "text": "một",
+        "granularity": "sentence",
+        "startFrame": 316,
+        "endFrame": 397,
+        "x": 779,
+        "y": 112,
+        "fontSize": 52,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#FF5C8A",
+        "rotateDeg": -9.6,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -30,
+          "dy": 34,
+          "rot": 1.1,
+          "scale": 0.06
+        },
+        "beatReactive": true,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s5-w3",
+        "text": "đêm",
+        "granularity": "sentence",
+        "startFrame": 327,
+        "endFrame": 397,
+        "x": 975,
+        "y": 187,
+        "fontSize": 80,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": 8.7,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -28,
+          "dy": 35,
+          "rot": -2.3,
+          "scale": 0.06
+        },
+        "beatReactive": true,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s5-w4",
+        "text": "TRĂNG",
+        "granularity": "sentence",
+        "startFrame": 340,
+        "endFrame": 397,
+        "x": 725,
+        "y": 377,
+        "fontSize": 270,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFFFFF",
+        "rotateDeg": 0.1,
+        "entrance": "char-spring",
+        "entranceDurationFrames": 12,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "deepGlow": true,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 5,
+          "dy": -50,
+          "rot": 2.1,
+          "scale": 0.1
+        },
+        "beatReactive": true,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s5-w5",
+        "text": "sáng",
+        "granularity": "sentence",
+        "startFrame": 354,
+        "endFrame": 397,
+        "x": 850,
+        "y": 623,
+        "fontSize": 78,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -7.3,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -4,
+          "dy": -27,
+          "rot": 2.7,
+          "scale": 0.06
+        },
+        "beatReactive": false,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s5-g0-0",
+        "text": "hẹn",
+        "granularity": "sentence",
+        "startFrame": 300,
+        "endFrame": 397,
+        "x": 325,
+        "y": 178,
+        "fontSize": 63,
+        "fontRole": "body",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -10.2,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 6,
+          "dy": 36,
+          "rot": -2,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s5-g1-0",
+        "text": "hò",
+        "granularity": "sentence",
+        "startFrame": 310,
+        "endFrame": 397,
+        "x": 482,
+        "y": 133,
+        "fontSize": 76,
+        "fontRole": "body",
+        "variant": "hollow-outline",
+        "strokeColor": "#B9AEC9",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 5.4,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -45,
+          "dy": -9,
+          "rot": 0.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s5-g2-0",
+        "text": "đêm",
+        "granularity": "sentence",
+        "startFrame": 331,
+        "endFrame": 397,
+        "x": 994,
+        "y": 225,
+        "fontSize": 80,
+        "fontRole": "body",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 5,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 17,
+          "dy": 33,
+          "rot": -2,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s5-g3-0",
+        "text": "TRĂNG",
+        "granularity": "sentence",
+        "startFrame": 344,
+        "endFrame": 397,
+        "x": 667,
+        "y": 389,
+        "fontSize": 270,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -0.4,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -45,
+          "dy": 9,
+          "rot": -0.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s5-g3-1",
+        "text": "TRĂNG",
+        "granularity": "sentence",
+        "startFrame": 345,
+        "endFrame": 397,
+        "x": 661,
+        "y": 308,
+        "fontSize": 251,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFFFFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 1.9,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -27,
+          "dy": -29,
+          "rot": 1,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s5-g4-0",
+        "text": "sáng",
+        "granularity": "sentence",
+        "startFrame": 358,
+        "endFrame": 397,
+        "x": 896,
+        "y": 624,
+        "fontSize": 78,
+        "fontRole": "body",
+        "variant": "hollow-outline",
+        "strokeColor": "#B9AEC9",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -13.2,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 46,
+          "dy": 1,
+          "rot": -3.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s5-m0",
+        "text": "trăng",
+        "granularity": "sentence",
+        "startFrame": 351,
+        "endFrame": 397,
+        "x": 539,
+        "y": 659,
+        "fontSize": 45,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 5,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 41,
+          "dy": 14,
+          "rot": 2,
+          "scale": 0.1
+        },
+        "zIndex": 40
+      },
+      {
+        "id": "dream-s5-m2",
+        "text": "hò",
+        "granularity": "sentence",
+        "startFrame": 317,
+        "endFrame": 397,
+        "x": 408,
+        "y": 597,
+        "fontSize": 46,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -8,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 44,
+          "dy": -23,
+          "rot": -3,
+          "scale": 0.1
+        },
+        "zIndex": 64
+      },
+      {
+        "id": "dream-s5-m4",
+        "text": "một",
+        "granularity": "sentence",
+        "startFrame": 323,
+        "endFrame": 397,
+        "x": 268,
+        "y": 274,
+        "fontSize": 34,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -2,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -24,
+          "dy": -5,
+          "rot": -1,
+          "scale": 0.1
+        },
+        "zIndex": 88
+      },
+      {
+        "id": "dream-s6-w0",
+        "text": "ước mơ của ta và nàng",
+        "granularity": "sentence",
+        "startFrame": 394,
+        "endFrame": 494,
+        "x": 544,
+        "y": 520,
+        "fontSize": 50,
+        "fontRole": "body",
+        "useNarrowDisplay": false,
+        "fontWeight": 500,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 0,
+        "entrance": "fade-focus",
+        "entranceDurationFrames": 10,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 4,
+        "beatReactive": false,
+        "zIndex": 25
+      },
+      {
+        "id": "dream-s6-m0",
+        "text": "ước",
+        "granularity": "sentence",
+        "startFrame": 404,
+        "endFrame": 494,
+        "x": 507,
+        "y": 359,
+        "fontSize": 43,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -10,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 26,
+          "dy": -28,
+          "rot": -3,
+          "scale": 0.1
+        },
+        "zIndex": 40
+      },
+      {
+        "id": "dream-s6-m1",
+        "text": "và",
+        "granularity": "sentence",
+        "startFrame": 469,
+        "endFrame": 494,
+        "x": 873,
+        "y": 761,
+        "fontSize": 39,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 5,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 6,
+          "dy": 14,
+          "rot": 2,
+          "scale": 0.1
+        },
+        "zIndex": 52
+      },
+      {
+        "id": "dream-s6-m2",
+        "text": "nàng",
+        "granularity": "sentence",
+        "startFrame": 487,
+        "endFrame": 494,
+        "x": 493,
+        "y": 779,
+        "fontSize": 46,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 10,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 45,
+          "dy": 29,
+          "rot": 3,
+          "scale": 0.1
+        },
+        "zIndex": 64
+      },
+      {
+        "id": "dream-s6-m3",
+        "text": "mơ",
+        "granularity": "sentence",
+        "startFrame": 415,
+        "endFrame": 494,
+        "x": 917,
+        "y": 645,
+        "fontSize": 31,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -4,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -37,
+          "dy": -13,
+          "rot": -1,
+          "scale": 0.1
+        },
+        "zIndex": 76
+      },
+      {
+        "id": "dream-s7-w0",
+        "text": "BÓNG",
+        "granularity": "sentence",
+        "startFrame": 491,
+        "endFrame": 636,
+        "x": 613,
+        "y": 280,
+        "fontSize": 174,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FF5C8A",
+        "rotateDeg": 1.7,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 9,
+        "exitStyle": "split-close",
+        "exitDurationFrames": 10,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 37,
+          "dy": 29,
+          "rot": -2.3,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 504,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": false,
+        "zIndex": 14
+      },
+      {
+        "id": "dream-s7-w1",
+        "text": "HÌNH",
+        "granularity": "sentence",
+        "startFrame": 504,
+        "endFrame": 636,
+        "x": 725,
+        "y": 435,
+        "fontSize": 116,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFF066",
+        "rotateDeg": 0.3,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 9,
+        "exitStyle": "split-close",
+        "exitDurationFrames": 10,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 48,
+          "dy": -16,
+          "rot": 3.5,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": 14,
+          "dy": -20,
+          "triggerFrame": 514,
+          "rotateDeg": 1.5
+        },
+        "beatReactive": false,
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s7-w2",
+        "text": "ANH",
+        "granularity": "sentence",
+        "startFrame": 514,
+        "endFrame": 636,
+        "x": 601,
+        "y": 556,
+        "fontSize": 102,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#9B5CFF",
+        "rotateDeg": 7,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 9,
+        "exitStyle": "split-close",
+        "exitDurationFrames": 10,
+        "driftStrength": 4,
+        "travel": {
+          "dx": 27,
+          "dy": -36,
+          "rot": -2.1,
+          "scale": 0.06
+        },
+        "kineticPush": {
+          "dx": -14,
+          "dy": -20,
+          "triggerFrame": 534,
+          "rotateDeg": -1.5
+        },
+        "beatReactive": true,
+        "zIndex": 16
+      },
+      {
+        "id": "dream-s7-w3",
+        "text": "YÊU",
+        "granularity": "sentence",
+        "startFrame": 534,
+        "endFrame": 636,
+        "x": 776,
+        "y": 721,
+        "fontSize": 139,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#FFF066",
+        "rotateDeg": 2.4,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 9,
+        "exitStyle": "split-close",
+        "exitDurationFrames": 10,
+        "driftStrength": 4,
+        "travel": {
+          "dx": -18,
+          "dy": -39,
+          "rot": 0,
+          "scale": 0.06
+        },
+        "beatReactive": true,
+        "zIndex": 17
+      },
+      {
+        "id": "dream-s7-w4",
+        "text": "HÌNH",
+        "granularity": "sentence",
+        "startFrame": 504,
+        "endFrame": 636,
+        "x": 691,
+        "y": 512,
+        "fontSize": 560,
+        "fontRole": "display",
+        "useNarrowDisplay": false,
+        "variant": "solid",
+        "color": "#9B5CFF",
+        "baseOpacity": 0.3,
+        "blurPx": 6,
+        "rotateDeg": -6,
+        "entrance": "fade-focus",
+        "entranceDurationFrames": 10,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "exitOpacityFloor": 0,
+        "driftStrength": 5.6,
+        "travel": {
+          "dx": -62,
+          "dy": 28,
+          "rot": -0.7,
+          "scale": 0.1
+        },
+        "beatReactive": false,
+        "zIndex": 1
+      },
+      {
+        "id": "dream-s7-g0-0",
+        "text": "BÓNG",
+        "granularity": "sentence",
+        "startFrame": 495,
+        "endFrame": 636,
+        "x": 659,
+        "y": 280,
+        "fontSize": 174,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FF5C8A",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -4.3,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 46,
+          "dy": 0,
+          "rot": -3.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s7-g0-1",
+        "text": "BÓNG",
+        "granularity": "sentence",
+        "startFrame": 496,
+        "endFrame": 636,
+        "x": 527,
+        "y": 230,
+        "fontSize": 162,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FF5C8A",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 2.9,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -37,
+          "dy": -21,
+          "rot": 0.5,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s7-g1-0",
+        "text": "HÌNH",
+        "granularity": "sentence",
+        "startFrame": 508,
+        "endFrame": 636,
+        "x": 749,
+        "y": 471,
+        "fontSize": 116,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": -3.6,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 22,
+          "dy": 32,
+          "rot": -2.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s7-g2-0",
+        "text": "ANH",
+        "granularity": "sentence",
+        "startFrame": 518,
+        "endFrame": 636,
+        "x": 626,
+        "y": 591,
+        "fontSize": 102,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#9B5CFF",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 3,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 23,
+          "dy": 31,
+          "rot": -2.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s7-g3-0",
+        "text": "YÊU",
+        "granularity": "sentence",
+        "startFrame": 538,
+        "endFrame": 636,
+        "x": 720,
+        "y": 697,
+        "fontSize": 139,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 3.3,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.6,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -40,
+          "dy": -17,
+          "rot": 0.5,
+          "scale": 0.08
+        },
+        "zIndex": 3
+      },
+      {
+        "id": "dream-s7-g3-1",
+        "text": "YÊU",
+        "granularity": "sentence",
+        "startFrame": 539,
+        "endFrame": 636,
+        "x": 809,
+        "y": 635,
+        "fontSize": 129,
+        "fontRole": "display",
+        "variant": "hollow-outline",
+        "strokeColor": "#FFF066",
+        "strokeWidth": 2,
+        "color": "transparent",
+        "rotateDeg": 6,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 8,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "baseOpacity": 0.38,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 13,
+          "dy": -34,
+          "rot": 2,
+          "scale": 0.08
+        },
+        "zIndex": 15
+      },
+      {
+        "id": "dream-s7-m0",
+        "text": "bóng",
+        "granularity": "sentence",
+        "startFrame": 497,
+        "endFrame": 636,
+        "x": 423,
+        "y": 563,
+        "fontSize": 32,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -8,
+        "entrance": "slide-blur",
+        "revealDir": "ltr",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -32,
+          "dy": -25,
+          "rot": -3,
+          "scale": 0.1
+        },
+        "zIndex": 40
+      },
+      {
+        "id": "dream-s7-m1",
+        "text": "hình",
+        "granularity": "sentence",
+        "startFrame": 515,
+        "endFrame": 636,
+        "x": 1004,
+        "y": 743,
+        "fontSize": 46,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": -3,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 44,
+          "dy": -9,
+          "rot": -1,
+          "scale": 0.1
+        },
+        "zIndex": 52
+      },
+      {
+        "id": "dream-s7-m2",
+        "text": "yêu",
+        "granularity": "sentence",
+        "startFrame": 542,
+        "endFrame": 636,
+        "x": 878,
+        "y": 332,
+        "fontSize": 35,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 11,
+        "entrance": "slide-blur",
+        "revealDir": "rtl",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": -14,
+          "dy": 31,
+          "rot": 4,
+          "scale": 0.1
+        },
+        "zIndex": 64
+      },
+      {
+        "id": "dream-s7-m3",
+        "text": "yêu",
+        "granularity": "sentence",
+        "startFrame": 543,
+        "endFrame": 636,
+        "x": 410,
+        "y": 736,
+        "fontSize": 39,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 9,
+        "entrance": "slide-blur",
+        "revealDir": "btt",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 5,
+          "dy": 27,
+          "rot": 3,
+          "scale": 0.1
+        },
+        "zIndex": 76
+      },
+      {
+        "id": "dream-s7-m4",
+        "text": "anh",
+        "granularity": "sentence",
+        "startFrame": 525,
+        "endFrame": 636,
+        "x": 1090,
+        "y": 436,
+        "fontSize": 44,
+        "fontRole": "body",
+        "fontWeight": 700,
+        "variant": "solid",
+        "color": "#B9AEC9",
+        "rotateDeg": 1,
+        "entrance": "slide-blur",
+        "revealDir": "ttb",
+        "entranceDurationFrames": 7,
+        "exitStyle": "slide-out",
+        "exitDurationFrames": 10,
+        "ambient": true,
+        "driftStrength": 3,
+        "travel": {
+          "dx": 32,
+          "dy": 3,
+          "rot": 0,
+          "scale": 0.1
+        },
+        "zIndex": 88
+      },
+      {
+        "id": "dream-outro-title",
+        "text": "Dạo Bước Hồng Kông 1999",
+        "granularity": "sentence",
+        "startFrame": 627,
+        "endFrame": 735,
+        "x": 600,
+        "y": 450,
+        "fontSize": 54,
+        "fontRole": "serif",
+        "fontWeight": 400,
+        "variant": "solid",
+        "color": "#E2D9F3",
+        "entrance": "tracking-expand",
+        "exitStyle": "split-close",
+        "screenFixed": true,
+        "zIndex": 30
+      }
+    ]
+  },
+  "energyTrack": {
+    "fps": 24,
+    "durationInFrames": 588,
+    "frames": [
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0145,
+        "overall": 0.079,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0342,
+        "overall": 0.2501,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0401,
+        "overall": 0.2617,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0458,
+        "overall": 0.2999,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0479,
+        "overall": 0.2484,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0443,
+        "overall": 0.2218,
+        "isBeat": false
+      },
+      {
+        "bass": 0.047,
+        "overall": 0.1826,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1135,
+        "overall": 0.4399,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0431,
+        "overall": 0.1821,
+        "isBeat": false
+      },
+      {
+        "bass": 0.032,
+        "overall": 0.1579,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0172,
+        "overall": 0.1358,
+        "isBeat": false
+      },
+      {
+        "bass": 0.188,
+        "overall": 0.3609,
+        "isBeat": true
+      },
+      {
+        "bass": 0.9151,
+        "overall": 0.9456,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8612,
+        "overall": 0.8634,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8959,
+        "overall": 0.8929,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7671,
+        "overall": 0.774,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7547,
+        "overall": 0.767,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7426,
+        "overall": 0.7565,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6394,
+        "overall": 0.6544,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5715,
+        "overall": 0.586,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3709,
+        "overall": 0.4366,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2331,
+        "overall": 0.4474,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2223,
+        "overall": 0.4125,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2232,
+        "overall": 0.3592,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2072,
+        "overall": 0.3413,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2682,
+        "overall": 0.4433,
+        "isBeat": true
+      },
+      {
+        "bass": 0.7105,
+        "overall": 0.7486,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6904,
+        "overall": 0.7144,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6509,
+        "overall": 0.6762,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5666,
+        "overall": 0.599,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5167,
+        "overall": 0.5544,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5347,
+        "overall": 0.5624,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4924,
+        "overall": 0.5118,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4666,
+        "overall": 0.5132,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4165,
+        "overall": 0.4876,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3411,
+        "overall": 0.3996,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3203,
+        "overall": 0.3522,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2676,
+        "overall": 0.2884,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1947,
+        "overall": 0.341,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2413,
+        "overall": 0.4448,
+        "isBeat": true
+      },
+      {
+        "bass": 0.5747,
+        "overall": 0.6263,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6462,
+        "overall": 0.6795,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7448,
+        "overall": 0.7746,
+        "isBeat": true
+      },
+      {
+        "bass": 0.7828,
+        "overall": 0.7836,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8066,
+        "overall": 0.814,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5778,
+        "overall": 0.6207,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4971,
+        "overall": 0.5287,
+        "isBeat": true
+      },
+      {
+        "bass": 0.4541,
+        "overall": 0.5351,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3927,
+        "overall": 0.4622,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4354,
+        "overall": 0.4838,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3955,
+        "overall": 0.4457,
+        "isBeat": true
+      },
+      {
+        "bass": 0.3576,
+        "overall": 0.402,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3409,
+        "overall": 0.4418,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3978,
+        "overall": 0.5639,
+        "isBeat": true
+      },
+      {
+        "bass": 0.7086,
+        "overall": 0.7325,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7461,
+        "overall": 0.7977,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7627,
+        "overall": 0.7659,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5719,
+        "overall": 0.5917,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3014,
+        "overall": 0.4584,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2356,
+        "overall": 0.3761,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2558,
+        "overall": 0.3428,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1801,
+        "overall": 0.2972,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1066,
+        "overall": 0.2231,
+        "isBeat": false
+      },
+      {
+        "bass": 0.047,
+        "overall": 0.157,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0396,
+        "overall": 0.3035,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0375,
+        "overall": 0.3657,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0292,
+        "overall": 0.3355,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3247,
+        "overall": 0.4811,
+        "isBeat": true
+      },
+      {
+        "bass": 0.7577,
+        "overall": 0.7919,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8864,
+        "overall": 0.9148,
+        "isBeat": false
+      },
+      {
+        "bass": 0.9344,
+        "overall": 0.9326,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5387,
+        "overall": 0.6234,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5017,
+        "overall": 0.5594,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5647,
+        "overall": 0.6108,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4875,
+        "overall": 0.5546,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5312,
+        "overall": 0.5448,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5173,
+        "overall": 0.5558,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0627,
+        "overall": 0.279,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0249,
+        "overall": 0.3523,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0288,
+        "overall": 0.3788,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0337,
+        "overall": 0.4267,
+        "isBeat": false
+      },
+      {
+        "bass": 0.033,
+        "overall": 0.4078,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0361,
+        "overall": 0.3312,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0335,
+        "overall": 0.3228,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0373,
+        "overall": 0.2891,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0354,
+        "overall": 0.264,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0444,
+        "overall": 0.2448,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0442,
+        "overall": 0.2662,
+        "isBeat": false
+      },
+      {
+        "bass": 0.046,
+        "overall": 0.2126,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0337,
+        "overall": 0.2277,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0226,
+        "overall": 0.216,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0171,
+        "overall": 0.1804,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0167,
+        "overall": 0.1612,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0146,
+        "overall": 0.149,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0134,
+        "overall": 0.1387,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0117,
+        "overall": 0.1209,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0176,
+        "overall": 0.1729,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0151,
+        "overall": 0.1851,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0116,
+        "overall": 0.1723,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0124,
+        "overall": 0.1426,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0117,
+        "overall": 0.1342,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0107,
+        "overall": 0.1445,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0135,
+        "overall": 0.1315,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0174,
+        "overall": 0.1402,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0143,
+        "overall": 0.1276,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0075,
+        "overall": 0.151,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0073,
+        "overall": 0.1419,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0408,
+        "overall": 0.1801,
+        "isBeat": true
+      },
+      {
+        "bass": 0.1219,
+        "overall": 0.4279,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0852,
+        "overall": 0.2308,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0928,
+        "overall": 0.1999,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1038,
+        "overall": 0.1925,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1193,
+        "overall": 0.1968,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1311,
+        "overall": 0.2386,
+        "isBeat": true
+      },
+      {
+        "bass": 0.5179,
+        "overall": 0.6463,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6237,
+        "overall": 0.6607,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6624,
+        "overall": 0.6854,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6652,
+        "overall": 0.7063,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5043,
+        "overall": 0.5309,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4496,
+        "overall": 0.5095,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3129,
+        "overall": 0.4692,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2639,
+        "overall": 0.389,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1902,
+        "overall": 0.2929,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1373,
+        "overall": 0.2316,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0607,
+        "overall": 0.2501,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0496,
+        "overall": 0.3147,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0727,
+        "overall": 0.402,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0492,
+        "overall": 0.3555,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0542,
+        "overall": 0.3674,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0474,
+        "overall": 0.2993,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0489,
+        "overall": 0.2165,
+        "isBeat": false
+      },
+      {
+        "bass": 0.035,
+        "overall": 0.1903,
+        "isBeat": false
+      },
+      {
+        "bass": 0.061,
+        "overall": 0.35,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0492,
+        "overall": 0.417,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0401,
+        "overall": 0.314,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0508,
+        "overall": 0.3192,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0512,
+        "overall": 0.2507,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0444,
+        "overall": 0.2668,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0488,
+        "overall": 0.232,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0526,
+        "overall": 0.2113,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0557,
+        "overall": 0.19,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0386,
+        "overall": 0.1323,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0166,
+        "overall": 0.1124,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0185,
+        "overall": 0.0824,
+        "isBeat": true
+      },
+      {
+        "bass": 0.092,
+        "overall": 0.2029,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0756,
+        "overall": 0.2886,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0382,
+        "overall": 0.1889,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0649,
+        "overall": 0.207,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0969,
+        "overall": 0.2502,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1157,
+        "overall": 0.2835,
+        "isBeat": false
+      },
+      {
+        "bass": 0.105,
+        "overall": 0.2814,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5074,
+        "overall": 0.6385,
+        "isBeat": true
+      },
+      {
+        "bass": 0.6674,
+        "overall": 0.7079,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7848,
+        "overall": 0.7863,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7274,
+        "overall": 0.7377,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6579,
+        "overall": 0.6821,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6132,
+        "overall": 0.6651,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4444,
+        "overall": 0.5024,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4219,
+        "overall": 0.5054,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4404,
+        "overall": 0.5151,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4492,
+        "overall": 0.5282,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3622,
+        "overall": 0.3978,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3001,
+        "overall": 0.3712,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2295,
+        "overall": 0.383,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1195,
+        "overall": 0.2818,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0829,
+        "overall": 0.3785,
+        "isBeat": false
+      },
+      {
+        "bass": 0.075,
+        "overall": 0.3067,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0681,
+        "overall": 0.2996,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0331,
+        "overall": 0.2875,
+        "isBeat": false
+      },
+      {
+        "bass": 0.049,
+        "overall": 0.2753,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0623,
+        "overall": 0.4359,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0561,
+        "overall": 0.402,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0511,
+        "overall": 0.2942,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0645,
+        "overall": 0.1546,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0714,
+        "overall": 0.1411,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0673,
+        "overall": 0.1277,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0689,
+        "overall": 0.1182,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0685,
+        "overall": 0.1211,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0655,
+        "overall": 0.1122,
+        "isBeat": false
+      },
+      {
+        "bass": 0.054,
+        "overall": 0.0816,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0372,
+        "overall": 0.0517,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0169,
+        "overall": 0.0638,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0249,
+        "overall": 0.271,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0912,
+        "overall": 0.3205,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0488,
+        "overall": 0.2565,
+        "isBeat": false
+      },
+      {
+        "bass": 0.056,
+        "overall": 0.1876,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1382,
+        "overall": 0.3243,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1295,
+        "overall": 0.2874,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4986,
+        "overall": 0.6465,
+        "isBeat": true
+      },
+      {
+        "bass": 0.5709,
+        "overall": 0.5926,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6132,
+        "overall": 0.6353,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7048,
+        "overall": 0.7347,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6137,
+        "overall": 0.6534,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5604,
+        "overall": 0.5905,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3737,
+        "overall": 0.4533,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2813,
+        "overall": 0.4356,
+        "isBeat": false
+      },
+      {
+        "bass": 0.268,
+        "overall": 0.4363,
+        "isBeat": false
+      },
+      {
+        "bass": 0.208,
+        "overall": 0.4248,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1766,
+        "overall": 0.4708,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1072,
+        "overall": 0.2297,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0635,
+        "overall": 0.2233,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0708,
+        "overall": 0.3178,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0561,
+        "overall": 0.3633,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0745,
+        "overall": 0.2625,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0997,
+        "overall": 0.2868,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0575,
+        "overall": 0.206,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0663,
+        "overall": 0.2954,
+        "isBeat": true
+      },
+      {
+        "bass": 0.604,
+        "overall": 0.7047,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6276,
+        "overall": 0.6621,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6713,
+        "overall": 0.7003,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7263,
+        "overall": 0.7572,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6231,
+        "overall": 0.6702,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5372,
+        "overall": 0.5853,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4233,
+        "overall": 0.5213,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2714,
+        "overall": 0.4509,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2259,
+        "overall": 0.4429,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1744,
+        "overall": 0.431,
+        "isBeat": false
+      },
+      {
+        "bass": 0.122,
+        "overall": 0.2644,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0625,
+        "overall": 0.2928,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0589,
+        "overall": 0.3074,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0474,
+        "overall": 0.3069,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0597,
+        "overall": 0.3181,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0878,
+        "overall": 0.2796,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1171,
+        "overall": 0.32,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0579,
+        "overall": 0.2425,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4135,
+        "overall": 0.5426,
+        "isBeat": true
+      },
+      {
+        "bass": 0.6293,
+        "overall": 0.6906,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5799,
+        "overall": 0.6629,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5183,
+        "overall": 0.5825,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4708,
+        "overall": 0.538,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4413,
+        "overall": 0.5297,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3625,
+        "overall": 0.4722,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2936,
+        "overall": 0.4516,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2362,
+        "overall": 0.4254,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2415,
+        "overall": 0.4398,
+        "isBeat": true
+      },
+      {
+        "bass": 0.5972,
+        "overall": 0.6477,
+        "isBeat": false
+      },
+      {
+        "bass": 0.651,
+        "overall": 0.6937,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6016,
+        "overall": 0.6584,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5032,
+        "overall": 0.5571,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3792,
+        "overall": 0.4423,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4149,
+        "overall": 0.4738,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3625,
+        "overall": 0.4571,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3327,
+        "overall": 0.4295,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2848,
+        "overall": 0.3817,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1269,
+        "overall": 0.3265,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0546,
+        "overall": 0.3153,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0672,
+        "overall": 0.3154,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0604,
+        "overall": 0.3375,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0686,
+        "overall": 0.3443,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0754,
+        "overall": 0.2307,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0986,
+        "overall": 0.2768,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0821,
+        "overall": 0.3843,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0793,
+        "overall": 0.3446,
+        "isBeat": false
+      },
+      {
+        "bass": 0.072,
+        "overall": 0.2615,
+        "isBeat": true
+      },
+      {
+        "bass": 0.1415,
+        "overall": 0.2974,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1321,
+        "overall": 0.238,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1014,
+        "overall": 0.3501,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0888,
+        "overall": 0.3944,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0768,
+        "overall": 0.2798,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0798,
+        "overall": 0.2397,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0661,
+        "overall": 0.2203,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0118,
+        "overall": 0.1379,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3169,
+        "overall": 0.4552,
+        "isBeat": true
+      },
+      {
+        "bass": 0.703,
+        "overall": 0.7553,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6129,
+        "overall": 0.6368,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6322,
+        "overall": 0.661,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6918,
+        "overall": 0.7197,
+        "isBeat": false
+      },
+      {
+        "bass": 0.642,
+        "overall": 0.6844,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5585,
+        "overall": 0.6376,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5518,
+        "overall": 0.6201,
+        "isBeat": false
+      },
+      {
+        "bass": 0.547,
+        "overall": 0.5947,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4807,
+        "overall": 0.5503,
+        "isBeat": false
+      },
+      {
+        "bass": 0.443,
+        "overall": 0.5056,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3873,
+        "overall": 0.4512,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3264,
+        "overall": 0.4308,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2828,
+        "overall": 0.4113,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2181,
+        "overall": 0.3928,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1457,
+        "overall": 0.344,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1471,
+        "overall": 0.3336,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0796,
+        "overall": 0.3118,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0403,
+        "overall": 0.283,
+        "isBeat": false
+      },
+      {
+        "bass": 0.044,
+        "overall": 0.4449,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0382,
+        "overall": 0.3626,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0373,
+        "overall": 0.3517,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0381,
+        "overall": 0.4249,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0283,
+        "overall": 0.4355,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0211,
+        "overall": 0.3648,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0218,
+        "overall": 0.3907,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0274,
+        "overall": 0.3699,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0315,
+        "overall": 0.4626,
+        "isBeat": false
+      },
+      {
+        "bass": 0.334,
+        "overall": 0.5456,
+        "isBeat": true
+      },
+      {
+        "bass": 0.6819,
+        "overall": 0.7153,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6038,
+        "overall": 0.6537,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5938,
+        "overall": 0.6538,
+        "isBeat": false
+      },
+      {
+        "bass": 0.536,
+        "overall": 0.5991,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5108,
+        "overall": 0.5595,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5409,
+        "overall": 0.6006,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4883,
+        "overall": 0.5602,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4007,
+        "overall": 0.4678,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4134,
+        "overall": 0.4851,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3899,
+        "overall": 0.4731,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3109,
+        "overall": 0.4308,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2742,
+        "overall": 0.41,
+        "isBeat": false
+      },
+      {
+        "bass": 0.237,
+        "overall": 0.3654,
+        "isBeat": false
+      },
+      {
+        "bass": 0.395,
+        "overall": 0.5451,
+        "isBeat": true
+      },
+      {
+        "bass": 0.5905,
+        "overall": 0.6466,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5819,
+        "overall": 0.6038,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4976,
+        "overall": 0.5472,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4478,
+        "overall": 0.4752,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7055,
+        "overall": 0.7637,
+        "isBeat": true
+      },
+      {
+        "bass": 0.8237,
+        "overall": 0.8382,
+        "isBeat": false
+      },
+      {
+        "bass": 0.845,
+        "overall": 0.8609,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8807,
+        "overall": 0.9015,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8703,
+        "overall": 0.893,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8609,
+        "overall": 0.8587,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8051,
+        "overall": 0.7916,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6984,
+        "overall": 0.713,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6155,
+        "overall": 0.6288,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3477,
+        "overall": 0.4971,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0591,
+        "overall": 0.36,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0563,
+        "overall": 0.3445,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0327,
+        "overall": 0.0479,
+        "isBeat": false
+      },
+      {
+        "bass": 0.007,
+        "overall": 0.0682,
+        "isBeat": true
+      },
+      {
+        "bass": 0.083,
+        "overall": 0.3308,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1243,
+        "overall": 0.3081,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0649,
+        "overall": 0.3054,
+        "isBeat": false
+      },
+      {
+        "bass": 0.012,
+        "overall": 0.0447,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0369,
+        "overall": 0.2602,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0554,
+        "overall": 0.3848,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0308,
+        "overall": 0.1617,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0123,
+        "overall": 0.0303,
+        "isBeat": false
+      },
+      {
+        "bass": 0.043,
+        "overall": 0.0534,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1453,
+        "overall": 0.3773,
+        "isBeat": true
+      },
+      {
+        "bass": 0.2476,
+        "overall": 0.4232,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3951,
+        "overall": 0.4622,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5321,
+        "overall": 0.5468,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4751,
+        "overall": 0.5057,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5662,
+        "overall": 0.6707,
+        "isBeat": true
+      },
+      {
+        "bass": 0.6228,
+        "overall": 0.6526,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6472,
+        "overall": 0.6867,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5696,
+        "overall": 0.6231,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5255,
+        "overall": 0.562,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5734,
+        "overall": 0.6266,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4823,
+        "overall": 0.5414,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4818,
+        "overall": 0.5367,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4092,
+        "overall": 0.4984,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3473,
+        "overall": 0.4343,
+        "isBeat": false
+      },
+      {
+        "bass": 0.364,
+        "overall": 0.454,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2896,
+        "overall": 0.3584,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3006,
+        "overall": 0.3505,
+        "isBeat": true
+      },
+      {
+        "bass": 0.2932,
+        "overall": 0.4527,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6486,
+        "overall": 0.7236,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7032,
+        "overall": 0.7081,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7148,
+        "overall": 0.7365,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6388,
+        "overall": 0.6755,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4344,
+        "overall": 0.5145,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2622,
+        "overall": 0.4745,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2055,
+        "overall": 0.3366,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1636,
+        "overall": 0.3153,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1005,
+        "overall": 0.3698,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0572,
+        "overall": 0.3534,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0445,
+        "overall": 0.3265,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0479,
+        "overall": 0.3495,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0503,
+        "overall": 0.3445,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1288,
+        "overall": 0.4294,
+        "isBeat": true
+      },
+      {
+        "bass": 0.6209,
+        "overall": 0.6874,
+        "isBeat": false
+      },
+      {
+        "bass": 0.582,
+        "overall": 0.6533,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5395,
+        "overall": 0.6209,
+        "isBeat": false
+      },
+      {
+        "bass": 0.44,
+        "overall": 0.5253,
+        "isBeat": false
+      },
+      {
+        "bass": 0.381,
+        "overall": 0.4702,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3278,
+        "overall": 0.4251,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2667,
+        "overall": 0.3861,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1825,
+        "overall": 0.3465,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1085,
+        "overall": 0.3191,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0754,
+        "overall": 0.3425,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0523,
+        "overall": 0.349,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0516,
+        "overall": 0.3574,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0505,
+        "overall": 0.3362,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0605,
+        "overall": 0.3253,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0563,
+        "overall": 0.2731,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0589,
+        "overall": 0.2444,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0711,
+        "overall": 0.2243,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0805,
+        "overall": 0.2394,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5202,
+        "overall": 0.6428,
+        "isBeat": true
+      },
+      {
+        "bass": 0.9127,
+        "overall": 0.9438,
+        "isBeat": false
+      },
+      {
+        "bass": 0.9534,
+        "overall": 0.9408,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8732,
+        "overall": 0.9071,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8352,
+        "overall": 0.8267,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7036,
+        "overall": 0.7484,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6977,
+        "overall": 0.6937,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5313,
+        "overall": 0.5582,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4675,
+        "overall": 0.5111,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3669,
+        "overall": 0.5072,
+        "isBeat": true
+      },
+      {
+        "bass": 0.6121,
+        "overall": 0.667,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6682,
+        "overall": 0.6884,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7183,
+        "overall": 0.7629,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7487,
+        "overall": 0.7608,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4273,
+        "overall": 0.4412,
+        "isBeat": false
+      },
+      {
+        "bass": 0.006,
+        "overall": 0.0442,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0033,
+        "overall": 0.0402,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0031,
+        "overall": 0.0375,
+        "isBeat": false
+      },
+      {
+        "bass": 0.022,
+        "overall": 0.1064,
+        "isBeat": true
+      },
+      {
+        "bass": 0.5838,
+        "overall": 0.6653,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6673,
+        "overall": 0.6866,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7174,
+        "overall": 0.7526,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7061,
+        "overall": 0.7119,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5895,
+        "overall": 0.6062,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0116,
+        "overall": 0.044,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0043,
+        "overall": 0.0316,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0041,
+        "overall": 0.03,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0042,
+        "overall": 0.0243,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3991,
+        "overall": 0.5404,
+        "isBeat": true
+      },
+      {
+        "bass": 0.5581,
+        "overall": 0.596,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6002,
+        "overall": 0.6393,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5279,
+        "overall": 0.5518,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5439,
+        "overall": 0.577,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4255,
+        "overall": 0.4708,
+        "isBeat": false
+      },
+      {
+        "bass": 0.347,
+        "overall": 0.3858,
+        "isBeat": false
+      },
+      {
+        "bass": 0.336,
+        "overall": 0.419,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2199,
+        "overall": 0.3091,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1567,
+        "overall": 0.2637,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1146,
+        "overall": 0.2156,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0958,
+        "overall": 0.2066,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1105,
+        "overall": 0.2534,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1182,
+        "overall": 0.3094,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5672,
+        "overall": 0.6421,
+        "isBeat": true
+      },
+      {
+        "bass": 0.8334,
+        "overall": 0.854,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7377,
+        "overall": 0.7718,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8539,
+        "overall": 0.8525,
+        "isBeat": true
+      },
+      {
+        "bass": 0.6917,
+        "overall": 0.7036,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4803,
+        "overall": 0.5815,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5825,
+        "overall": 0.6453,
+        "isBeat": false
+      },
+      {
+        "bass": 0.55,
+        "overall": 0.6021,
+        "isBeat": true
+      },
+      {
+        "bass": 0.439,
+        "overall": 0.5308,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4526,
+        "overall": 0.5349,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3713,
+        "overall": 0.4789,
+        "isBeat": false
+      },
+      {
+        "bass": 0.311,
+        "overall": 0.4382,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3246,
+        "overall": 0.4435,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2952,
+        "overall": 0.422,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4704,
+        "overall": 0.6004,
+        "isBeat": true
+      },
+      {
+        "bass": 0.6221,
+        "overall": 0.6864,
+        "isBeat": false
+      },
+      {
+        "bass": 0.526,
+        "overall": 0.5779,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4739,
+        "overall": 0.5577,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4204,
+        "overall": 0.5089,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3564,
+        "overall": 0.4363,
+        "isBeat": false
+      },
+      {
+        "bass": 0.292,
+        "overall": 0.4205,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2456,
+        "overall": 0.3712,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2094,
+        "overall": 0.3668,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1274,
+        "overall": 0.3618,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0764,
+        "overall": 0.3333,
+        "isBeat": false
+      },
+      {
+        "bass": 0.059,
+        "overall": 0.3249,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0619,
+        "overall": 0.3348,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0773,
+        "overall": 0.3023,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1061,
+        "overall": 0.4415,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0384,
+        "overall": 0.226,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0241,
+        "overall": 0.1831,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0177,
+        "overall": 0.1462,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2532,
+        "overall": 0.4152,
+        "isBeat": true
+      },
+      {
+        "bass": 0.9744,
+        "overall": 1,
+        "isBeat": false
+      },
+      {
+        "bass": 1,
+        "overall": 0.9881,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8815,
+        "overall": 0.8868,
+        "isBeat": false
+      },
+      {
+        "bass": 0.9133,
+        "overall": 0.9391,
+        "isBeat": false
+      },
+      {
+        "bass": 0.8292,
+        "overall": 0.8498,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7351,
+        "overall": 0.7428,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6825,
+        "overall": 0.6946,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6026,
+        "overall": 0.6001,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4519,
+        "overall": 0.4826,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2281,
+        "overall": 0.4461,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1832,
+        "overall": 0.371,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2226,
+        "overall": 0.3183,
+        "isBeat": false
+      },
+      {
+        "bass": 0.221,
+        "overall": 0.3769,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3583,
+        "overall": 0.527,
+        "isBeat": true
+      },
+      {
+        "bass": 0.8724,
+        "overall": 0.8853,
+        "isBeat": false
+      },
+      {
+        "bass": 0.537,
+        "overall": 0.5641,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5287,
+        "overall": 0.6077,
+        "isBeat": false
+      },
+      {
+        "bass": 0.601,
+        "overall": 0.6497,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6159,
+        "overall": 0.6462,
+        "isBeat": false
+      },
+      {
+        "bass": 0.6105,
+        "overall": 0.6602,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5676,
+        "overall": 0.5734,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4688,
+        "overall": 0.5001,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3169,
+        "overall": 0.4453,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2585,
+        "overall": 0.3784,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2541,
+        "overall": 0.3327,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2423,
+        "overall": 0.3046,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2127,
+        "overall": 0.2825,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3364,
+        "overall": 0.4873,
+        "isBeat": true
+      },
+      {
+        "bass": 0.5557,
+        "overall": 0.6147,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5675,
+        "overall": 0.6007,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5846,
+        "overall": 0.6293,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5196,
+        "overall": 0.5596,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5644,
+        "overall": 0.625,
+        "isBeat": false
+      },
+      {
+        "bass": 0.508,
+        "overall": 0.5519,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3375,
+        "overall": 0.4367,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2401,
+        "overall": 0.349,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1961,
+        "overall": 0.3718,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1576,
+        "overall": 0.3052,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1023,
+        "overall": 0.204,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0663,
+        "overall": 0.2589,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0899,
+        "overall": 0.3743,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0843,
+        "overall": 0.4205,
+        "isBeat": false
+      },
+      {
+        "bass": 0.068,
+        "overall": 0.35,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1161,
+        "overall": 0.3391,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0583,
+        "overall": 0.2569,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0427,
+        "overall": 0.2179,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0778,
+        "overall": 0.4136,
+        "isBeat": false
+      },
+      {
+        "bass": 0.06,
+        "overall": 0.3307,
+        "isBeat": false
+      },
+      {
+        "bass": 0.056,
+        "overall": 0.3677,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0578,
+        "overall": 0.3088,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0563,
+        "overall": 0.2582,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0372,
+        "overall": 0.2247,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0751,
+        "overall": 0.3382,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0927,
+        "overall": 0.4458,
+        "isBeat": false
+      },
+      {
+        "bass": 0.067,
+        "overall": 0.3271,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4685,
+        "overall": 0.6354,
+        "isBeat": true
+      },
+      {
+        "bass": 0.7129,
+        "overall": 0.7583,
+        "isBeat": false
+      },
+      {
+        "bass": 0.7317,
+        "overall": 0.776,
+        "isBeat": false
+      },
+      {
+        "bass": 0.548,
+        "overall": 0.6164,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4999,
+        "overall": 0.5864,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4593,
+        "overall": 0.5506,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3825,
+        "overall": 0.4724,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3367,
+        "overall": 0.4045,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3095,
+        "overall": 0.342,
+        "isBeat": false
+      },
+      {
+        "bass": 0.266,
+        "overall": 0.3755,
+        "isBeat": true
+      },
+      {
+        "bass": 0.5543,
+        "overall": 0.6049,
+        "isBeat": false
+      },
+      {
+        "bass": 0.611,
+        "overall": 0.6539,
+        "isBeat": false
+      },
+      {
+        "bass": 0.5758,
+        "overall": 0.6114,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4948,
+        "overall": 0.5532,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4298,
+        "overall": 0.4837,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4218,
+        "overall": 0.465,
+        "isBeat": false
+      },
+      {
+        "bass": 0.4267,
+        "overall": 0.4702,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3703,
+        "overall": 0.4113,
+        "isBeat": false
+      },
+      {
+        "bass": 0.3135,
+        "overall": 0.3324,
+        "isBeat": false
+      },
+      {
+        "bass": 0.333,
+        "overall": 0.3318,
+        "isBeat": false
+      },
+      {
+        "bass": 0.2652,
+        "overall": 0.2719,
+        "isBeat": false
+      },
+      {
+        "bass": 0.208,
+        "overall": 0.218,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1633,
+        "overall": 0.168,
+        "isBeat": false
+      },
+      {
+        "bass": 0.1232,
+        "overall": 0.1246,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0939,
+        "overall": 0.0985,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0602,
+        "overall": 0.0663,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0629,
+        "overall": 0.0992,
+        "isBeat": true
+      },
+      {
+        "bass": 0.0457,
+        "overall": 0.1075,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0183,
+        "overall": 0.1355,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0102,
+        "overall": 0.0983,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0079,
+        "overall": 0.1114,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0076,
+        "overall": 0.0955,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0058,
+        "overall": 0.081,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0078,
+        "overall": 0.0753,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0041,
+        "overall": 0.0445,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0045,
+        "overall": 0.0451,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0027,
+        "overall": 0.0208,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0015,
+        "overall": 0.0145,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0012,
+        "overall": 0.0053,
+        "isBeat": false
+      },
+      {
+        "bass": 0.001,
+        "overall": 0.0034,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0004,
+        "overall": 0.0012,
+        "isBeat": false
+      },
+      {
+        "bass": 0.0001,
+        "overall": 0.0001,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      },
+      {
+        "bass": 0,
+        "overall": 0,
+        "isBeat": false
+      }
+    ]
+  }
+}

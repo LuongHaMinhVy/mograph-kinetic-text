@@ -1,0 +1,30 @@
+{
+  "name": "kinetic-text-motion-graphic-skill-maker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "build:hk1999": "remotion render src/index.ts HK1999Demo out/hk1999-demo.mp4",
+    "typecheck": "tsc --noEmit",
+    "prep:audio": "node scripts/prep-audio.mjs",
+    "qa:compare": "node scripts/qa-compare.mjs",
+    "align:lyrics": "node --env-file=.env.local scripts/align-lyrics.mjs",
+    "gen:storyboard": "node scripts/generate-storyboard.mjs",
+    "analyze:ref": "node scripts/analyze-ref.mjs",
+    "lint:storyboard": "node scripts/lint-storyboard.mjs"
+  },
+  "dependencies": {
+    "@elevenlabs/elevenlabs-js": "^2.79.0",
+    "@remotion/cli": "4.0.545",
+    "@remotion/google-fonts": "4.0.545",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "4.0.545"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
